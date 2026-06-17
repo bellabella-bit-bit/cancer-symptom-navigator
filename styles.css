@@ -689,6 +689,7 @@ main {
   gap: 8px;
   text-align: center;
   justify-items: center;
+  min-width: 0;
 }
 
 .welcome-title {
@@ -714,11 +715,30 @@ main {
 .welcome-copy .language-subtitle {
   max-width: 42rem;
   text-align: center;
+  margin-inline: auto;
 }
 
 .welcome-copy .language-subtitle:last-of-type {
   color: #6b46c1;
   font-weight: 800;
+}
+
+@media (max-width: 720px) {
+  .welcome-copy {
+    width: 100%;
+  }
+
+  .welcome-title {
+    max-width: 100%;
+    font-size: clamp(2.1rem, 8.8vw, 3rem);
+    line-height: 1.1;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .welcome-copy .language-subtitle {
+    max-width: 28rem;
+  }
 }
 
 .welcome-support-card {
@@ -911,7 +931,7 @@ main {
 .call-card-title h3 {
   padding-top: 2px;
   color: #b85b2d;
-  font-size: 1.12rem;
+  font-size: 1.22rem;
   font-weight: 700;
   line-height: 1.35;
 }
@@ -943,14 +963,14 @@ main {
 .call-card-intro {
   margin: 0;
   color: #46566f;
-  font-size: 1.08rem;
+  font-size: 1.18rem;
   font-weight: 500;
   line-height: 1.55;
 }
 
 .call-card-reassure p {
   color: #56657b;
-  font-size: 1.04rem;
+  font-size: 1.12rem;
   font-weight: 500;
   line-height: 1.55;
 }
@@ -962,7 +982,7 @@ main {
 
 .call-card-warning p {
   color: #56657b;
-  font-size: 1.02rem;
+  font-size: 1.12rem;
   font-weight: 500;
   line-height: 1.55;
 }

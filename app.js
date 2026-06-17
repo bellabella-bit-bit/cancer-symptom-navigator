@@ -92,7 +92,7 @@ function render() {
   title.textContent = ui("siteTitle");
   backButton.textContent = ui("back");
   languageButton.textContent = language.shortName;
-  header.hidden = state.route === "language" || state.route === "welcome";
+  header.hidden = state.route === "language";
 
   const views = {
     language: renderLanguage,
