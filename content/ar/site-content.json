@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "ar",
+    "htmlLang": "ar",
+    "dir": "rtl",
+    "nativeName": "العربية",
+    "shortName": "العربية"
+  },
+  "ui": {
+    "siteTitle": "موجّه أعراض علاج السرطان",
+    "back": "رجوع",
+    "changeLanguage": "اللغة",
+    "continue": "متابعة",
+    "start": "ابدأ",
+    "startAgain": "ابدأ من جديد",
+    "yes": "نعم",
+    "no": "لا",
+    "notSure": "لست متأكدا",
+    "welcomeTitle": "ماذا يجب أن أفعل؟",
+    "welcome1": "للمرضى ومقدمي الرعاية الذين يتلقون علاجاً جهازياً للسرطان في",
+    "welcome2": "St George Hospital Cancer Care Centre.",
+    "welcome3": "أنت لا تزعجنا.",
+    "emergencyShort": "اتصل بالرقم 000 أو اذهب الآن إلى أقرب طوارئ عند وجود ألم في الصدر أو صعوبة في التنفس أو ضعف مفاجئ أو ألم شديد أو إذا كنت لا تستطيع النهوض من السرير أو المشي.",
+    "worryTitle": "ما الذي يقلقك اليوم؟",
+    "worryLead": "اختر كل ما ينطبق.",
+    "treatmentTitle": "هل تتلقى أيا من هذه العلاجات؟",
+    "treatmentLead": "اختر كل ما ينطبق. لا تحتاج إلى معرفة اسم العلاج.",
+    "stomachTitle": "ما مشاكل المعدة أو الأمعاء؟",
+    "sectionProgress": "قسم الأسئلة",
+    "resources": "معلومات موثوقة",
+    "contacts": "هل تحتاج إلى التواصل معنا؟",
+    "phone": "رقم هاتف مركز السرطان",
+    "hours": "ساعات العمل",
+    "afterHours": "نصيحة بعد ساعات العمل",
+    "interpreter": "نصيحة المترجم",
+    "emergency": "الطوارئ",
+    "finalTitle": "ماذا تفعل الآن",
+    "redTitle": "طارئ — اتصل بالرقم 000 أو اذهب الآن إلى أقرب قسم طوارئ.",
+    "orangeTitle": "اتصل بخط مساعدة الأعراض اليوم.",
+    "greenTitle": "الرعاية الذاتية والمعلومات الموثوقة.",
+    "unsureTitle": "نصيحة حذرة",
+    "redAdvice": "بسبب إجابة واحدة أو أكثر، هناك حاجة إلى مساعدة عاجلة الآن. أخبر موظفي الطوارئ أنك تتلقى علاج السرطان.",
+    "orangeAdvice": "يرجى الاتصال بخط مساعدة الأعراض اليوم: 9113 3909 (الخيار 1). اتصل في وقت مبكر من اليوم إن أمكن. إذا بدأت علامات الطوارئ، اتصل بالرقم 000 أو اذهب إلى الطوارئ.",
+    "greenAdvice": "استخدم خطة علاجك والمعلومات الموثوقة. إذا استمرت الأعراض أو تغيرت أو أقلقتك، فاتصل بخط مساعدة الأعراض.",
+    "unsureAdvice": "إذا لم تكن متأكدا، فاتصل بخط مساعدة الأعراض: 9113 3909 (الخيار 1). إذا بدأت علامات الطوارئ، اتصل بالرقم 000 أو اذهب إلى الطوارئ.",
+    "noStore": "هذه الأداة لا تخزن إجاباتك ولا تقدم تشخيصا.",
+    "translationNote": "يجب مراجعة الترجمات والنص السريري محليا قبل الاستخدام مع المرضى.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "تخط إلى المحتوى",
+    "helpLineTitle": "خط مساعدة الأعراض",
+    "helpLineNumber": "(02) 9113 3909، الخيار 1",
+    "helpLineHours": "من الاثنين إلى الجمعة، 8:00 صباحاً-4:00 مساءً\nمغلق في العطل الرسمية.",
+    "treatmentQuestions": "أسئلة العلاج (ممرضو HODC): 9113 3767",
+    "treatmentAppointment": "تغيير موعد علاج (HODC): 9113 1175",
+    "doctorAppointments": "مواعيد الطبيب: 9113 3909",
+    "callEarlyTitle": "اتصل مبكرا إذا استطعت.",
+    "callEarlyText": "قد يساعد هذا على التعامل مع الأعراض في المنزل.",
+    "notEverythingEmergency": "حالة طارئة؟\nألم في الصدر، صعوبة في التنفس، نزيف شديد، ألم شديد، انهيار مفاجئ، نوبة صرع، أو ارتباك مفاجئ — اتصل بالرقم 000 فوراً.",
+    "quickCheck": "فحص سريع",
+    "fewerQuestions": "فقط بعض الأسئلة القليلة. نستخدمها لنقرر هل يجب أن تتصل بخط الأعراض أو تطلب مساعدة عاجلة.",
+    "interpreterSectionTitle": "خدمة الترجمة الشفوية",
+    "interpreterSectionText": "إذا لم تكن الإنجليزية هي لغتك المفضلة، فاتصل على 131 450 واطلب مترجما ليساعدك في الاتصال بـ St George Cancer Care.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "يمكنك أيضا أن تطلب من أحد أفراد العائلة أو صديق مساعدتك في إجراء المكالمة.",
+    "welcome4": "يرجى الاتصال بنا مبكراً — حتى إذا لم تكن متأكداً.",
+    "welcomePrompt": "هل تشعر بتوعك أو تقلق بشأن أحد الأعراض أثناء علاج السرطان؟",
+    "welcomeSupport": "يمكن لهذا الموقع مساعدتك على معرفة ما يجب فعله بعد ذلك.",
+    "contactLink": "الاتصال بمركز رعاية السرطان",
+    "footerGeneral": "معلومات عامة فقط. لا تغني عن المشورة الطبية.",
+    "treatmentQuestionsTitle": "🩺 أسئلة عن العلاج الكيميائي أو المناعي",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 تغيير موعد العلاج",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ مواعيد الطبيب",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 هل تحتاج إلى مترجم شفهي؟",
+    "emergencyPromptTitle": "🚨 طارئ",
+    "emergencyContactText": "اتصل فوراً بالرقم 000 إذا كانت هذه حالة طارئة.",
+    "emergencyQuestion": "هل هذه حالة طارئة؟",
+    "emergencySymptoms": "ألم في الصدر، صعوبة في التنفس، نزيف شديد، ألم شديد، انهيار مفاجئ، نوبة صرع، أو ارتباك مفاجئ.",
+    "call000Now": "اتصل بالرقم 000 الآن",
+    "helpLineHoursShort": "الاثنين-الجمعة، 8 ص-4 م. مغلق في العطل الرسمية.",
+    "callAdviceTitle": "الخطوة التالية الموصى بها",
+    "callAdviceIntro": "بناءً على إجاباتك، يرجى الاتصال بخط مساعدة الأعراض للحصول على المشورة:",
+    "callAdviceEscalation": "إذا بدأت علامات الطوارئ، اتصل بالرقم 000 أو اذهب إلى قسم الطوارئ."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "لا أشعر أنني بخير",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "لدي حمى أو أشعر بالحرارة",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "لا أستطيع الأكل أو الشرب",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "لدي مشاكل في المعدة أو الأمعاء",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "لدي مشاكل في التنفس",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "لدي ألم",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "لدي تغيرات جلدية أو طفح",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "لدي مشاكل في الفم",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "لدي أسئلة عن علاجي",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "لست متأكدا",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "إسهال",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "إمساك",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "غثيان أو قيء",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "ألم في المعدة",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "ضعف الشهية",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "لست متأكدا",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "العلاج الكيميائي",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "العلاج المناعي",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "العلاج الموجه",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "أقراص سرطان عن طريق الفم",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "العلاج الهرموني",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "أكثر من علاج واحد",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "لست متأكدا",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "لا أشعر أنني بخير",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "هل لديك حمى أو قشعريرة؟",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "هل لديك صعوبة في التنفس؟",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "هل لديك ألم في الصدر؟",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "هل لديك ضعف مفاجئ؟",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "هل أنت ضعيف جدا ولا تستطيع النهوض من السرير أو المشي؟",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "لدي حمى أو أشعر بالحرارة",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "هل حرارتك 38°C أو أعلى؟",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "هل لديك قشعريرة شديدة؟",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "هل تشعر بتوعك شديد؟",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "هل تتلقى علاجا كيميائيا أو لديك انخفاض في كريات الدم البيضاء؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "لا أستطيع الأكل أو الشرب",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "هل تتقيأ؟",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "هل تستطيع إبقاء السوائل في معدتك؟",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "هل شربت القليل جدا اليوم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "هل أنت ضعيف جدا ولا تستطيع النهوض من السرير أو المشي؟",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "إسهال",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "هل أصبت بالإسهال 4 مرات أو أكثر اليوم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "هل يوجد دم في البراز؟",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "هل لديك حمى أو قشعريرة؟",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "هل تشعر بدوخة أو لا تستطيع الشرب؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "إمساك",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "هل لم تفتح أمعاءك لمدة 3 أيام أو أكثر؟",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "هل لديك ألم أو انتفاخ في البطن؟",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "هل تتقيأ؟",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "هل لا تستطيع إخراج الغازات؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "غثيان أو قيء",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "هل تقيأت أكثر من مرة اليوم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "هل تستطيع إبقاء السوائل في معدتك؟",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "هل يوجد دم في القيء؟",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "هل تشعر بدوخة أو ضعف شديد؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "ألم في المعدة",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "هل ألم المعدة شديد؟",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "هل بطنك منتفخ أو صلب؟",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "هل تتقيأ؟",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "هل لديك حمى أو قشعريرة؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "ضعف الشهية",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "هل لم تأكل لأكثر من 24 ساعة؟",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "هل شربت القليل جدا اليوم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "هل تفقد الوزن بسرعة أو تشعر بضعف شديد؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "مشكلة في المعدة أو الأمعاء — لست متأكدا",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "هل أنت غير متأكد مما يحدث؟",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "لدي مشاكل في التنفس",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "هل تشعر بضيق نفس أثناء الراحة؟",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "هل لديك ألم في الصدر؟",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "هل شفتاك أو وجهك أزرقان؟",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "هل تسعل دما؟",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "هل هذا مفاجئ أو شديد؟",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "لدي ألم",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "هل الألم شديد؟",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "هل الألم في صدرك؟",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "هل لديك ضعف مفاجئ أو خدر أو صعوبة في المشي؟",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "هل لا يساعد دواء الألم المعتاد؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "لدي تغيرات جلدية أو طفح",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "هل ينتشر الطفح بسرعة؟",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "هل لديك بثور أو تقشر في الجلد؟",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "هل لديك تورم في الوجه أو الشفتين أو الحلق؟",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "هل لديك حمى مع الطفح؟",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "لدي مشاكل في الفم",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "هل لا تستطيع الأكل أو الشرب بسبب ألم الفم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "هل لديك تقرحات في الفم؟",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "هل يوجد نزيف؟",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "هل لديك حمى؟",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "هل لا تستطيع البلع؟",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "لدي أسئلة عن علاجي",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "فاتتني جرعة من أقراصي.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "تقيأت بعد أخذ أقراصي.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "لست متأكدا إذا كان يجب أن آخذ أقراصي اليوم.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "لدي آثار جانبية ولا أعرف ماذا أفعل.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "أحتاج معلومات عن الموعد.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "معلومات موثوقة",
+      "links": [
+        {
+          "title": "معلومات المرضى من Cancer Institute NSW",
+          "description": "معلومات للمرضى عن علاج السرطان والآثار الجانبية.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "معلومات المرضى من eviQ",
+          "description": "نشرات معلومات للمرضى عن العلاج والآثار الجانبية.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "دعم ومعلومات عن السرطان للمرضى والعائلات ومقدمي الرعاية.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "معلومات موثوقة بلغات أخرى",
+      "links": [
+        {
+          "title": "معلومات المرضى من eviQ بلغات أخرى",
+          "description": "معلومات للمرضى بلغات أخرى.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW للمجتمعات متعددة الثقافات",
+          "description": "معلومات دعم السرطان للمجتمعات متعددة الثقافات.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "معلومات السرطان متعددة اللغات من Cancer Council",
+          "description": "معلومات عن السرطان بلغات أخرى.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

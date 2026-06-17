@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "ko",
+    "htmlLang": "ko",
+    "dir": "ltr",
+    "nativeName": "한국어",
+    "shortName": "한국어"
+  },
+  "ui": {
+    "siteTitle": "암 치료 증상 안내",
+    "back": "뒤로",
+    "changeLanguage": "언어",
+    "continue": "계속",
+    "start": "시작",
+    "startAgain": "다시 시작",
+    "yes": "예",
+    "no": "아니요",
+    "notSure": "잘 모르겠습니다",
+    "welcomeTitle": "어떻게 해야 하나요?",
+    "welcome1": "St George Hospital Cancer Care Centre에서 전신 항암 치료를 받는 환자와 보호자를 위한 안내입니다.",
+    "welcome2": "",
+    "welcome3": "연락하셔도 괜찮습니다.",
+    "emergencyShort": "가슴 통증, 호흡 곤란, 갑작스러운 약화, 심한 통증, 또는 침대에서 일어나거나 걸을 수 없으면 000에 전화하거나 가장 가까운 응급실로 지금 가세요.",
+    "worryTitle": "오늘 무엇이 걱정되나요?",
+    "worryLead": "해당되는 것을 모두 선택하세요.",
+    "treatmentTitle": "다음 치료 중 받고 있는 것이 있나요?",
+    "treatmentLead": "해당되는 것을 모두 선택하세요. 치료 이름을 몰라도 됩니다.",
+    "stomachTitle": "어떤 위장 또는 장 문제가 있나요?",
+    "sectionProgress": "질문 구역",
+    "resources": "신뢰할 수 있는 정보",
+    "contacts": "문의가 필요하신가요?",
+    "phone": "암 센터 전화번호",
+    "hours": "업무 시간",
+    "afterHours": "업무 시간 외 상담",
+    "interpreter": "통역 안내",
+    "emergency": "응급",
+    "finalTitle": "지금 할 일",
+    "redTitle": "응급 — 000에 전화하거나 가장 가까운 응급실로 지금 가세요.",
+    "orangeTitle": "오늘 증상 도움 전화로 연락하세요.",
+    "greenTitle": "자가 관리와 신뢰할 수 있는 정보.",
+    "unsureTitle": "주의 깊은 안내",
+    "redAdvice": "하나 이상의 답변 때문에 지금 긴급 도움이 필요합니다. 응급 직원에게 암 치료 중이라고 말하세요.",
+    "orangeAdvice": "오늘 증상 도움 전화 9113 3909 (옵션 1)로 연락하세요. 가능하면 하루 중 일찍 전화하세요. 응급 징후가 시작되면 000에 전화하거나 응급실로 가세요.",
+    "greenAdvice": "치료 계획과 신뢰할 수 있는 정보를 이용하세요. 증상이 계속되거나 변하거나 걱정되면 증상 도움 전화로 연락하세요.",
+    "unsureAdvice": "잘 모르겠으면 증상 도움 전화 9113 3909 (옵션 1)로 연락하세요. 응급 징후가 시작되면 000에 전화하거나 응급실로 가세요.",
+    "noStore": "이 도구는 답변을 저장하지 않고 진단하지 않습니다.",
+    "translationNote": "번역과 임상 문구는 환자 사용 전에 현지 검토가 필요합니다.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "본문으로 건너뛰기",
+    "helpLineTitle": "증상 도움 전화",
+    "helpLineNumber": "(02) 9113 3909, 1번",
+    "helpLineHours": "월요일-금요일 오전 8:00-오후 4:00\n공휴일 휴무.",
+    "treatmentQuestions": "치료 질문(HODC 간호사): 9113 3767",
+    "treatmentAppointment": "치료 예약 변경(HODC): 9113 1175",
+    "doctorAppointments": "의사 예약: 9113 3909",
+    "callEarlyTitle": "가능하면 일찍 전화하세요.",
+    "callEarlyText": "집에서 증상을 관리하는 데 도움이 될 수 있습니다.",
+    "notEverythingEmergency": "응급 상황인가요?\n가슴 통증, 호흡 곤란, 심한 출혈, 심한 통증, 갑작스러운 쓰러짐, 발작 또는 갑작스러운 혼란이 있으면 즉시 000으로 전화하세요.",
+    "quickCheck": "빠른 확인",
+    "fewerQuestions": "몇 가지 질문만 합니다. 이를 통해 증상 도움 전화가 필요한지, 긴급 도움이 필요한지 정합니다.",
+    "interpreterSectionTitle": "통역 서비스",
+    "interpreterSectionText": "영어가 선호 언어가 아니라면 131 450으로 전화해 통역사를 요청하고 St George Cancer Care에 연락하는 데 도움을 받으세요.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "가족이나 친구에게 전화를 도와달라고 부탁할 수도 있습니다.",
+    "welcome4": "확실하지 않아도 일찍 저희에게 전화해 주세요.",
+    "welcomePrompt": "암 치료 중 몸이 불편하거나 증상이 걱정되시나요?",
+    "welcomeSupport": "이 웹사이트는 다음에 무엇을 해야 할지 결정하는 데 도움을 줍니다.",
+    "contactLink": "암 치료 센터에 연락하기",
+    "footerGeneral": "일반 정보만 제공합니다. 의료 조언을 대신하지 않습니다.",
+    "treatmentQuestionsTitle": "🩺 항암화학요법 또는 면역치료 문의",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 치료 예약 변경",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ 진료 예약",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 통역이 필요하신가요?",
+    "emergencyPromptTitle": "🚨 응급 상황",
+    "emergencyContactText": "응급 상황이면 즉시 000으로 전화하세요.",
+    "emergencyQuestion": "응급 상황인가요?",
+    "emergencySymptoms": "가슴 통증, 호흡 곤란, 심한 출혈, 심한 통증, 갑작스러운 쓰러짐, 발작 또는 갑작스러운 혼란.",
+    "call000Now": "지금 000으로 전화",
+    "helpLineHoursShort": "월-금, 오전 8시-오후 4시. 공휴일 휴무.",
+    "callAdviceTitle": "권장되는 다음 단계",
+    "callAdviceIntro": "답변을 바탕으로 증상 도움 전화로 연락하여 조언을 받으세요:",
+    "callAdviceEscalation": "응급 징후가 시작되면 000으로 전화하거나 응급실로 가세요."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "몸이 좋지 않습니다",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "열이 있거나 뜨겁게 느껴집니다",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "먹거나 마실 수 없습니다",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "위장 또는 장 문제가 있습니다",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "숨쉬기 어렵습니다",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "통증이 있습니다",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "피부 변화나 발진이 있습니다",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "입안 문제가 있습니다",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "치료에 대해 궁금한 점이 있습니다",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "잘 모르겠습니다",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "설사",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "변비",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "메스꺼움 또는 구토",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "복통",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "식욕 저하",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "잘 모르겠습니다",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "항암화학요법",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "면역치료",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "표적치료",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "경구 항암제",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "호르몬 치료",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "두 가지 이상 치료",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "잘 모르겠습니다",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "몸이 좋지 않습니다",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "열이나 오한이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "숨쉬기 어렵나요?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "가슴 통증이 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "갑작스러운 약화가 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "침대에서 일어나거나 걸을 수 없을 만큼 약한가요?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "열이 있거나 뜨겁게 느껴집니다",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "체온이 38°C 이상인가요?",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "몸이 심하게 떨리는 오한이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "매우 아프게 느껴지나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "항암화학요법을 받고 있거나 백혈구 수치가 낮나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "먹거나 마실 수 없습니다",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "구토하고 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "마신 물이나 음료를 토하지 않고 유지할 수 있나요?",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "오늘 마신 양이 매우 적나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "침대에서 일어나거나 걸을 수 없을 만큼 약한가요?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "설사",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "오늘 설사를 4번 이상 했나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "대변에 피가 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "열이나 오한이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "어지럽거나 마실 수 없나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "변비",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "3일 이상 대변을 보지 못했나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "복통이나 배부름이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "구토하고 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "가스가 나오지 않나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "메스꺼움 또는 구토",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "오늘 한 번 이상 구토했나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "마신 물이나 음료를 토하지 않고 유지할 수 있나요?",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "구토물에 피가 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "어지럽거나 매우 약한가요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "복통",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "복통이 심한가요?",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "배가 붓거나 딱딱한가요?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "구토하고 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "열이나 오한이 있나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "식욕 저하",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "24시간 넘게 먹지 못했나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "오늘 마신 양이 매우 적나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "체중이 빠르게 줄거나 매우 약하게 느껴지나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "위장 또는 장 문제 — 잘 모르겠습니다",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "무슨 일이 일어나는지 잘 모르겠나요?",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "숨쉬기 어렵습니다",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "가만히 있어도 숨이 차나요?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "가슴 통증이 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "입술이나 얼굴이 파랗게 보이나요?",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "피를 토하듯 기침하나요?",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "갑자기 생겼거나 심한가요?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "통증이 있습니다",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "통증이 심한가요?",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "가슴에 통증이 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "갑작스러운 약화, 저림, 또는 걷기 어려움이 있나요?",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "평소 진통제가 도움이 되지 않나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "피부 변화나 발진이 있습니다",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "발진이 빠르게 퍼지나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "물집이나 피부 벗겨짐이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "얼굴, 입술 또는 목이 붓나요?",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "발진과 함께 열이 있나요?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "입안 문제가 있습니다",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "입 통증 때문에 먹거나 마실 수 없나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "입안 궤양이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "출혈이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "열이 있나요?",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "삼킬 수 없나요?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "치료에 대해 궁금한 점이 있습니다",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "약을 한 번 놓쳤습니다.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "약을 먹은 후 구토했습니다.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "오늘 약을 먹어야 할지 잘 모르겠습니다.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "부작용이 있는데 어떻게 해야 할지 모르겠습니다.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "예약 정보가 필요합니다.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "신뢰할 수 있는 정보",
+      "links": [
+        {
+          "title": "Cancer Institute NSW 환자 정보",
+          "description": "암 치료와 부작용에 대한 환자 정보입니다.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "eviQ 환자 정보",
+          "description": "치료와 부작용에 대한 환자 정보 자료입니다.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "환자, 가족, 보호자를 위한 지원 및 암 정보입니다.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "다른 언어의 신뢰할 수 있는 정보",
+      "links": [
+        {
+          "title": "eviQ 다른 언어 환자 정보",
+          "description": "다른 언어로 된 환자 정보입니다.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW 다문화 커뮤니티",
+          "description": "다문화 커뮤니티를 위한 암 지원 정보입니다.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Cancer Council 다국어 암 정보",
+          "description": "다른 언어로 된 암 정보입니다.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

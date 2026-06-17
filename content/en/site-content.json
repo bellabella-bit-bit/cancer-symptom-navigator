@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "en",
+    "htmlLang": "en-AU",
+    "dir": "ltr",
+    "nativeName": "English",
+    "shortName": "English"
+  },
+  "ui": {
+    "siteTitle": "Cancer Treatment Symptom Navigator",
+    "back": "Back",
+    "changeLanguage": "Language",
+    "continue": "Continue",
+    "start": "Start",
+    "startAgain": "Start again",
+    "yes": "Yes",
+    "no": "No",
+    "notSure": "I am not sure",
+    "welcomeTitle": "What should I do?",
+    "welcome1": "For patients and carers receiving systemic cancer therapy at",
+    "welcome2": "St George Hospital Cancer Care Centre.",
+    "welcome3": "You are not bothering us.",
+    "emergencyShort": "Call 000 or go to the nearest emergency department now for chest pain, trouble breathing, sudden weakness, severe pain, or if you cannot get out of bed or walk.",
+    "worryTitle": "What is worrying you today?",
+    "worryLead": "Select all that apply.",
+    "treatmentTitle": "Are you receiving any of these treatments?",
+    "treatmentLead": "Select all that apply. You do not need to know the treatment name.",
+    "stomachTitle": "Which stomach or bowel problems?",
+    "sectionProgress": "Question section",
+    "resources": "Trusted information",
+    "contacts": "Need to contact us?",
+    "phone": "Cancer centre phone number",
+    "hours": "Business hours",
+    "afterHours": "After-hours advice",
+    "interpreter": "Interpreter advice",
+    "emergency": "Emergency",
+    "finalTitle": "What to do now",
+    "redTitle": "Emergency — call 000 or go to the nearest emergency department now.",
+    "orangeTitle": "Call the symptoms help line today.",
+    "greenTitle": "Self-care and trusted information.",
+    "unsureTitle": "Cautious advice",
+    "redAdvice": "Because of one or more answers, urgent help is needed now. Tell emergency staff you are receiving cancer treatment.",
+    "orangeAdvice": "Please call the symptoms help line today: 9113 3909 (Option 1). Call as early in the day as you can. If emergency signs start, call 000 or go to ED.",
+    "greenAdvice": "Use your treatment plan and trusted information. If symptoms continue, change, or worry you, call the symptoms help line.",
+    "unsureAdvice": "If you are not sure, please call the symptoms help line: 9113 3909 (Option 1). If emergency signs start, call 000 or go to ED.",
+    "noStore": "This tool does not store your answers and does not diagnose you.",
+    "translationNote": "Draft translations and clinical wording should be checked by local clinicians and accredited interpreters before patient use.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "Skip to content",
+    "helpLineTitle": "Symptoms help line",
+    "helpLineNumber": "(02) 9113 3909, option 1",
+    "helpLineHours": "Monday-Friday, 8:00 am-4:00 pm\nClosed on public holidays.",
+    "treatmentQuestions": "Treatment questions (HODC nurses): 9113 3767",
+    "treatmentAppointment": "Change a treatment appointment (HODC): 9113 1175",
+    "doctorAppointments": "Doctor appointments: 9113 3909",
+    "callEarlyTitle": "Call early if you can.",
+    "callEarlyText": "This may help manage symptoms at home.",
+    "notEverythingEmergency": "Emergency?\nChest pain, trouble breathing, severe bleeding, severe pain, sudden collapse, seizure, or sudden confusion — call 000 immediately.",
+    "quickCheck": "Quick check",
+    "fewerQuestions": "Only a few questions. We use them to decide whether you should call the symptoms help line or get urgent help.",
+    "interpreterSectionTitle": "Interpreter service",
+    "interpreterSectionText": "If English is not your preferred language, call 131 450 and ask for an interpreter to help you contact St George Cancer Care.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "You can also ask a family member or friend to help you make the call.",
+    "welcome4": "Please call us early — even if you are not sure.",
+    "welcomePrompt": "Feeling unwell or worried about a symptom during cancer treatment?",
+    "welcomeSupport": "This website can help you decide what to do next.",
+    "contactLink": "Contact Cancer Care Centre",
+    "footerGeneral": "General information only. Not a substitute for medical advice.",
+    "treatmentQuestionsTitle": "🩺 Chemotherapy or immunotherapy questions",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 Change a treatment appointment",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ Doctor appointments",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "emergencyContactText": "Call 000 immediately if this is an emergency.",
+    "interpreterPromptTitle": "🌐 Need an interpreter?",
+    "emergencyPromptTitle": "🚨 Emergency",
+    "emergencyQuestion": "Is this an emergency?",
+    "emergencySymptoms": "Chest pain, trouble breathing, severe bleeding, severe pain, sudden collapse, seizure, or sudden confusion.",
+    "call000Now": "Call 000 now",
+    "helpLineHoursShort": "Mon-Fri, 8am-4pm. Closed public holidays.",
+    "callAdviceTitle": "Recommended next step",
+    "callAdviceIntro": "Based on your answers, please call the Symptoms Helpline below for advice:",
+    "callAdviceEscalation": "If emergency signs start, call 000 or go to the Emergency Department."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "I don’t feel well",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "I have a fever or feel hot",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "I can’t eat or drink",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "I have stomach or bowel problems",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "I have breathing problems",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "I have pain",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "I have skin changes or a rash",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "I have mouth problems",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "I have questions about my treatment",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "I am not sure",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "Diarrhoea",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "Constipation",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "Nausea or vomiting",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "Stomach pain",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "Poor appetite",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "I am not sure",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "Chemotherapy",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "Immunotherapy",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "Targeted therapy",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "Oral anticancer tablets",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "Hormone therapy",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "More than one treatment",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "I am not sure",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "I don’t feel well",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "Do you have fever or chills?",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "Are you having trouble breathing?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Do you have chest pain?",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "Do you have sudden weakness?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "Are you too weak to get out of bed or walk?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "I have a fever or feel hot",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "Is your temperature 38°C or higher?",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "Do you have shaking chills?",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "Do you feel very unwell?",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "Are you receiving chemotherapy or do you have a low white cell count?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "I can’t eat or drink",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "Are you vomiting?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Can you keep fluids down?",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Have you had very little to drink today?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Are you too weak to get out of bed or walk?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "Diarrhoea",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "Have you had diarrhoea 4 or more times today?",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "Is there blood in your stool?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "Do you have fever or chills?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "Are you dizzy or unable to drink?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "Constipation",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "Have you not opened your bowels for 3 days or more?",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "Do you have stomach pain or bloating?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Are you vomiting?",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "Are you unable to pass wind?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "Nausea or vomiting",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "Have you vomited more than once today?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Can you keep fluids down?",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "Is there blood in your vomit?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Are you dizzy or very weak?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "Stomach pain",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Is the stomach pain severe?",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "Is your stomach swollen or hard?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Are you vomiting?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Do you have fever or chills?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "Poor appetite",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "Have you not eaten for more than 24 hours?",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Have you had very little to drink today?",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "Are you losing weight quickly or feeling very weak?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "Stomach or bowel problem — I am not sure",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "Are you unsure what is happening?",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "I have breathing problems",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "Are you short of breath at rest?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Do you have chest pain?",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "Are your lips or face blue?",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "Are you coughing blood?",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "Is this sudden or severe?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "I have pain",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Is the pain severe?",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "Is the pain in your chest?",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "Do you have sudden weakness, numbness, or trouble walking?",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "Is your pain not helped by your usual pain medicine?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "I have skin changes or a rash",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "Is the rash spreading quickly?",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "Do you have blisters or peeling skin?",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "Do you have swelling of the face, lips, or throat?",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "Do you have fever with the rash?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "I have mouth problems",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "Are you unable to eat or drink because of mouth pain?",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "Do you have mouth ulcers?",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "Is there bleeding?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Do you have fever?",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "Are you unable to swallow?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "I have questions about my treatment",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "I missed a dose of my tablets.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "I vomited after taking my tablets.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "I am not sure if I should take my tablets today.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "I have side effects and do not know what to do.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "I need appointment information.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "Trusted information",
+      "links": [
+        {
+          "title": "Cancer Institute NSW patient information",
+          "description": "Information for patients about cancer treatment and side effects.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "eviQ patient information",
+          "description": "Patient information sheets about treatment and side effects.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "Support and cancer information for patients, families and carers.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "Trusted information in other languages",
+      "links": [
+        {
+          "title": "eviQ patient information in other languages",
+          "description": "Patient information in other languages.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW multicultural communities",
+          "description": "Cancer support information for multicultural communities.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Cancer Council multilingual cancer information",
+          "description": "Cancer information in other languages.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

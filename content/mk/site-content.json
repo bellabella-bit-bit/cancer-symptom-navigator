@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "mk",
+    "htmlLang": "mk",
+    "dir": "ltr",
+    "nativeName": "Македонски",
+    "shortName": "Македонски"
+  },
+  "ui": {
+    "siteTitle": "Навигатор за симптоми при третман на рак",
+    "back": "Назад",
+    "changeLanguage": "Јазик",
+    "continue": "Продолжи",
+    "start": "Започни",
+    "startAgain": "Започни повторно",
+    "yes": "Да",
+    "no": "Не",
+    "notSure": "Не сум сигурен/сигурна",
+    "welcomeTitle": "Што треба да направам?",
+    "welcome1": "За пациенти и негуватели кои примаат системска терапија за рак во",
+    "welcome2": "St George Hospital Cancer Care Centre.",
+    "welcome3": "Не ни пречите.",
+    "emergencyShort": "Јавете се на 000 или одете веднаш во најблиска итна помош ако има болка во градите, тешкотии со дишењето, ненадејна слабост, силна болка или ако не можете да станете од кревет или да одите.",
+    "worryTitle": "Што ве загрижува денес?",
+    "worryLead": "Изберете се што важи.",
+    "treatmentTitle": "Дали примате некој од овие третмани?",
+    "treatmentLead": "Изберете се што важи. Не мора да го знаете името на третманот.",
+    "stomachTitle": "Кои стомачни или цревни проблеми?",
+    "sectionProgress": "Дел со прашања",
+    "resources": "Доверливи информации",
+    "contacts": "Треба да не контактирате?",
+    "phone": "Телефон на центарот за рак",
+    "hours": "Работно време",
+    "afterHours": "Совет по работно време",
+    "interpreter": "Совет за преведувач",
+    "emergency": "Итно",
+    "finalTitle": "Што да направите сега",
+    "redTitle": "Итно — јавете се на 000 или одете веднаш во најблиска итна помош.",
+    "orangeTitle": "Јавете се денес на линијата за помош со симптоми.",
+    "greenTitle": "Самогрижа и доверливи информации.",
+    "unsureTitle": "Внимателен совет",
+    "redAdvice": "Поради еден или повеќе одговори, потребна е итна помош сега. Кажете им дека примате третман за рак.",
+    "orangeAdvice": "Јавете се денес на линијата за симптоми: 9113 3909 (Опција 1). Јавете се што е можно порано. Ако почнат итни знаци, јавете се на 000 или одете во итна помош.",
+    "greenAdvice": "Користете го вашиот план за третман и доверливи информации. Ако симптомите продолжат, се променат или ве загрижуваат, јавете се на линијата за симптоми.",
+    "unsureAdvice": "Ако не сте сигурни, јавете се на линијата за симптоми: 9113 3909 (Опција 1). Ако почнат итни знаци, јавете се на 000 или одете во итна помош.",
+    "noStore": "Оваа алатка не ги чува вашите одговори и не поставува дијагноза.",
+    "translationNote": "Преводите и клиничкиот текст треба локално да се проверат пред употреба со пациенти.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "Прескокни до содржината",
+    "helpLineTitle": "Линија за помош со симптоми",
+    "helpLineNumber": "(02) 9113 3909, опција 1",
+    "helpLineHours": "Понеделник-Петок, 8:00-16:00\nЗатворено за државни празници.",
+    "treatmentQuestions": "Прашања за третман (HODC сестри): 9113 3767",
+    "treatmentAppointment": "Промена на термин за третман (HODC): 9113 1175",
+    "doctorAppointments": "Докторски термини: 9113 3909",
+    "callEarlyTitle": "Јавете се рано ако можете.",
+    "callEarlyText": "Ова може да помогне симптомите да се справат дома.",
+    "notEverythingEmergency": "Итно?\nБолка во градите, тешко дишење, силно крварење, силна болка, ненадеен колапс, напад или ненадејна збунетост — веднаш јавете се на 000.",
+    "quickCheck": "Брза проверка",
+    "fewerQuestions": "Само неколку прашања. Ги користиме за да решиме дали треба да ја повикате линијата за симптоми или да побарате итна помош.",
+    "interpreterSectionTitle": "Услуга за преведувач",
+    "interpreterSectionText": "Ако англискиот не е вашиот претпочитан јазик, јавете се на 131 450 и побарајте преведувач за да ви помогне да контактирате со St George Cancer Care.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "Исто така можете да побарате од член на семејството или пријател да ви помогне да се јавите.",
+    "welcome4": "Ве молиме јавете ни се рано — дури и ако не сте сигурни.",
+    "welcomePrompt": "Се чувствувате лошо или сте загрижени за симптом за време на лекувањето?",
+    "welcomeSupport": "Оваа веб-страница може да ви помогне да одлучите што да направите понатаму.",
+    "contactLink": "Контактирајте го центарот за грижа за рак",
+    "footerGeneral": "Само општи информации. Не е замена за медицински совет.",
+    "treatmentQuestionsTitle": "🩺 Прашања за хемотерапија или имунотерапија",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 Промена на термин за терапија",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ Термини кај доктор",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 Ви треба преведувач?",
+    "emergencyPromptTitle": "🚨 Итно",
+    "emergencyContactText": "Јавете се веднаш на 000 ако ова е итен случај.",
+    "emergencyQuestion": "Дали е ова итен случај?",
+    "emergencySymptoms": "Болка во градите, тешко дишење, силно крварење, силна болка, ненадеен колапс, напад или ненадејна збунетост.",
+    "call000Now": "Јавете се на 000 сега",
+    "helpLineHoursShort": "Пон-Пет, 8-16 часот. Затворено за државни празници.",
+    "callAdviceTitle": "Препорачан следен чекор",
+    "callAdviceIntro": "Врз основа на вашите одговори, ве молиме јавете се на Линијата за помош со симптоми за совет:",
+    "callAdviceEscalation": "Ако започнат знаци на итност, јавете се на 000 или одете во Одделот за итни случаи."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "Не се чувствувам добро",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "Имам температура или ми е жешко",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "Не можам да јадам или пијам",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "Имам стомачни или цревни проблеми",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "Имам проблеми со дишењето",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "Имам болка",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "Имам промени на кожа или осип",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "Имам проблеми со устата",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "Имам прашања за третманот",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "Не сум сигурен/сигурна",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "Пролив",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "Запек",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "Гадење или повраќање",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "Стомачна болка",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "Слаб апетит",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "Не сум сигурен/сигурна",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "Хемотерапија",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "Имунотерапија",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "Целна терапија",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "Таблети против рак",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "Хормонска терапија",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "Повеќе од еден третман",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "Не сум сигурен/сигурна",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "Не се чувствувам добро",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "Дали имате температура или треска?",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "Дали имате тешкотии со дишењето?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Дали имате болка во градите?",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "Дали имате ненадејна слабост?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "Дали сте премногу слаби за да станете од кревет или да одите?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "Имам температура или ми е жешко",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "Дали температурата е 38°C или повисока?",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "Дали имате силна треска?",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "Дали се чувствувате многу лошо?",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "Дали примате хемотерапија или имате ниски бели крвни клетки?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "Не можам да јадам или пијам",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "Дали повраќате?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Дали можете да задржите течности?",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Дали денес сте пиеле многу малку?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Дали сте премногу слаби за да станете од кревет или да одите?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "Пролив",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "Дали имавте пролив 4 или повеќе пати денес?",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "Дали има крв во столицата?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "Дали имате температура или треска?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "Дали ви се врти или не можете да пиете?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "Запек",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "Дали немате столица 3 дена или повеќе?",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "Дали имате стомачна болка или надуеност?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Дали повраќате?",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "Дали не можете да испуштите гасови?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "Гадење или повраќање",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "Дали повративте повеќе од еднаш денес?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Дали можете да задржите течности?",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "Дали има крв во повраќаницата?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Дали ви се врти или сте многу слаби?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "Стомачна болка",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Дали стомачната болка е силна?",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "Дали стомакот е надуен или тврд?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Дали повраќате?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Дали имате температура или треска?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "Слаб апетит",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "Дали не сте јаделе повеќе од 24 часа?",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Дали денес сте пиеле многу малку?",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "Дали брзо губите тежина или сте многу слаби?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "Стомачен или цревен проблем — не сум сигурен/сигурна",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "Дали не сте сигурни што се случува?",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "Имам проблеми со дишењето",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "Дали ви недостига воздух додека мирувајте?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Дали имате болка во градите?",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "Дали усните или лицето ви се сини?",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "Дали кашлате крв?",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "Дали ова е ненадејно или силно?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "Имам болка",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Дали болката е силна?",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "Дали болката е во градите?",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "Дали имате ненадејна слабост, вкочанетост или тешкотии со одењето?",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "Дали вообичаениот лек за болка не помага?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "Имам промени на кожа или осип",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "Дали осипот брзо се шири?",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "Дали имате плускавци или лупење на кожата?",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "Дали имате оток на лицето, усните или грлото?",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "Дали имате температура со осипот?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "Имам проблеми со устата",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "Дали не можете да јадете или пиете поради болка во устата?",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "Дали имате рани во устата?",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "Дали има крварење?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Дали имате температура?",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "Дали не можете да голтате?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "Имам прашања за третманот",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "Пропуштив доза од таблетите.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "Повратив по земањето таблети.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "Не сум сигурен/сигурна дали да ги земам таблетите денес.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "Имам несакани ефекти и не знам што да правам.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "Ми требаат информации за термин.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "Доверливи информации",
+      "links": [
+        {
+          "title": "Информации за пациенти Cancer Institute NSW",
+          "description": "Информации за пациенти за лекување на рак и несакани ефекти.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "Информации за пациенти eviQ",
+          "description": "Листови со информации за пациенти за лекување и несакани ефекти.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "Поддршка и информации за рак за пациенти, семејства и негуватели.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "Доверливи информации на други јазици",
+      "links": [
+        {
+          "title": "Информации за пациенти eviQ на други јазици",
+          "description": "Информации за пациенти на други јазици.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW мултикултурни заедници",
+          "description": "Информации за поддршка за рак за мултикултурни заедници.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Повеќејазични информации за рак од Cancer Council",
+          "description": "Информации за рак на други јазици.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

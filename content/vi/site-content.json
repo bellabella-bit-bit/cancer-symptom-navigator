@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "vi",
+    "htmlLang": "vi",
+    "dir": "ltr",
+    "nativeName": "Tiếng Việt",
+    "shortName": "Tiếng Việt"
+  },
+  "ui": {
+    "siteTitle": "Công cụ hướng dẫn triệu chứng điều trị ung thư",
+    "back": "Quay lại",
+    "changeLanguage": "Ngôn ngữ",
+    "continue": "Tiếp tục",
+    "start": "Bắt đầu",
+    "startAgain": "Bắt đầu lại",
+    "yes": "Có",
+    "no": "Không",
+    "notSure": "Tôi không chắc",
+    "welcomeTitle": "Tôi nên làm gì?",
+    "welcome1": "Dành cho người bệnh và người chăm sóc đang điều trị ung thư toàn thân tại",
+    "welcome2": "St George Hospital Cancer Care Centre.",
+    "welcome3": "Bạn không làm phiền chúng tôi.",
+    "emergencyShort": "Gọi 000 hoặc đến khoa cấp cứu gần nhất ngay nếu có đau ngực, khó thở, yếu đột ngột, đau dữ dội, hoặc không thể ra khỏi giường hay đi lại.",
+    "worryTitle": "Hôm nay quý vị lo lắng điều gì?",
+    "worryLead": "Chọn tất cả điều phù hợp.",
+    "treatmentTitle": "Quý vị có đang nhận các điều trị này không?",
+    "treatmentLead": "Chọn tất cả điều phù hợp. Quý vị không cần biết tên điều trị.",
+    "stomachTitle": "Vấn đề dạ dày hoặc ruột nào?",
+    "sectionProgress": "Phần câu hỏi",
+    "resources": "Thông tin đáng tin cậy",
+    "contacts": "Cần liên hệ với chúng tôi?",
+    "phone": "Số điện thoại trung tâm ung thư",
+    "hours": "Giờ làm việc",
+    "afterHours": "Tư vấn ngoài giờ",
+    "interpreter": "Hướng dẫn thông dịch viên",
+    "emergency": "Cấp cứu",
+    "finalTitle": "Việc cần làm bây giờ",
+    "redTitle": "Cấp cứu — gọi 000 hoặc đến khoa cấp cứu gần nhất ngay.",
+    "orangeTitle": "Gọi đường dây trợ giúp triệu chứng trong hôm nay.",
+    "greenTitle": "Tự chăm sóc và thông tin đáng tin cậy.",
+    "unsureTitle": "Lời khuyên thận trọng",
+    "redAdvice": "Do một hoặc nhiều câu trả lời, quý vị cần được giúp khẩn cấp ngay. Hãy nói với nhân viên cấp cứu rằng quý vị đang điều trị ung thư.",
+    "orangeAdvice": "Vui lòng gọi đường dây triệu chứng hôm nay: 9113 3909 (Bấm số 1). Hãy gọi sớm nếu có thể. Nếu bắt đầu có dấu hiệu cấp cứu, gọi 000 hoặc đến cấp cứu.",
+    "greenAdvice": "Dùng kế hoạch điều trị và thông tin đáng tin cậy. Nếu triệu chứng tiếp tục, thay đổi hoặc làm quý vị lo lắng, hãy gọi đường dây triệu chứng.",
+    "unsureAdvice": "Nếu quý vị không chắc, hãy gọi đường dây triệu chứng: 9113 3909 (Bấm số 1). Nếu bắt đầu có dấu hiệu cấp cứu, gọi 000 hoặc đến cấp cứu.",
+    "noStore": "Công cụ này không lưu câu trả lời và không chẩn đoán.",
+    "translationNote": "Bản dịch và nội dung lâm sàng cần được kiểm tra tại địa phương trước khi dùng cho bệnh nhân.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "Bỏ qua đến nội dung",
+    "helpLineTitle": "Đường dây trợ giúp triệu chứng",
+    "helpLineNumber": "(02) 9113 3909, bấm số 1",
+    "helpLineHours": "Thứ Hai-Thứ Sáu, 8:00 sáng-4:00 chiều\nĐóng cửa vào ngày lễ công cộng.",
+    "treatmentQuestions": "Câu hỏi điều trị (y tá HODC): 9113 3767",
+    "treatmentAppointment": "Đổi lịch điều trị (HODC): 9113 1175",
+    "doctorAppointments": "Lịch hẹn bác sĩ: 9113 3909",
+    "callEarlyTitle": "Hãy gọi sớm nếu có thể.",
+    "callEarlyText": "Điều này có thể giúp xử trí triệu chứng tại nhà.",
+    "notEverythingEmergency": "Khẩn cấp?\nĐau ngực, khó thở, chảy máu nhiều, đau dữ dội, đột ngột ngã quỵ, co giật hoặc lú lẫn đột ngột — hãy gọi 000 ngay lập tức.",
+    "quickCheck": "Kiểm tra nhanh",
+    "fewerQuestions": "Chỉ có vài câu hỏi. Chúng tôi dùng chúng để quyết định quý vị nên gọi đường dây triệu chứng hay cần trợ giúp khẩn cấp.",
+    "interpreterSectionTitle": "Dịch vụ thông dịch",
+    "interpreterSectionText": "Nếu tiếng Anh không phải là ngôn ngữ quý vị muốn dùng, hãy gọi 131 450 và yêu cầu thông dịch viên giúp quý vị liên hệ St George Cancer Care.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "Quý vị cũng có thể nhờ người thân hoặc bạn bè giúp gọi điện.",
+    "welcome4": "Vui lòng gọi cho chúng tôi sớm — ngay cả khi bạn chưa chắc chắn.",
+    "welcomePrompt": "Bạn thấy không khỏe hoặc lo lắng về một triệu chứng trong khi điều trị ung thư?",
+    "welcomeSupport": "Trang web này có thể giúp bạn quyết định nên làm gì tiếp theo.",
+    "contactLink": "Liên hệ Trung tâm Chăm sóc Ung thư",
+    "footerGeneral": "Chỉ cung cấp thông tin chung. Không thay thế lời khuyên y tế.",
+    "treatmentQuestionsTitle": "🩺 Câu hỏi về hóa trị hoặc liệu pháp miễn dịch",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 Đổi lịch hẹn điều trị",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ Lịch hẹn bác sĩ",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 Cần thông dịch viên?",
+    "emergencyPromptTitle": "🚨 Khẩn cấp",
+    "emergencyContactText": "Gọi 000 ngay nếu đây là trường hợp khẩn cấp.",
+    "emergencyQuestion": "Đây có phải tình huống khẩn cấp không?",
+    "emergencySymptoms": "Đau ngực, khó thở, chảy máu nhiều, đau dữ dội, đột ngột ngã quỵ, co giật hoặc lú lẫn đột ngột.",
+    "call000Now": "Gọi 000 ngay",
+    "helpLineHoursShort": "Thứ Hai-Thứ Sáu, 8 giờ sáng-4 giờ chiều. Đóng cửa ngày lễ.",
+    "callAdviceTitle": "Bước tiếp theo được khuyến nghị",
+    "callAdviceIntro": "Dựa trên câu trả lời của bạn, vui lòng gọi Đường dây trợ giúp triệu chứng để được tư vấn:",
+    "callAdviceEscalation": "Nếu các dấu hiệu khẩn cấp bắt đầu, hãy gọi 000 hoặc đến Khoa Cấp cứu."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "Tôi cảm thấy không khỏe",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "Tôi bị sốt hoặc thấy nóng",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "Tôi không ăn hoặc uống được",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "Tôi có vấn đề dạ dày hoặc ruột",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "Tôi có vấn đề về thở",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "Tôi bị đau",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "Tôi có thay đổi da hoặc phát ban",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "Tôi có vấn đề ở miệng",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "Tôi có câu hỏi về điều trị",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "Tôi không chắc",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "Tiêu chảy",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "Táo bón",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "Buồn nôn hoặc nôn",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "Đau bụng",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "Ăn kém",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "Tôi không chắc",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "Hóa trị",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "Liệu pháp miễn dịch",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "Điều trị nhắm trúng đích",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "Thuốc chống ung thư đường uống",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "Liệu pháp hormone",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "Hơn một điều trị",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "Tôi không chắc",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "Tôi cảm thấy không khỏe",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "Quý vị có sốt hoặc ớn lạnh không?",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "Quý vị có khó thở không?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Quý vị có đau ngực không?",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "Quý vị có bị yếu đột ngột không?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "Quý vị có quá yếu đến mức không thể ra khỏi giường hoặc đi lại không?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "Tôi bị sốt hoặc thấy nóng",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "Nhiệt độ của quý vị có từ 38°C trở lên không?",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "Quý vị có rét run không?",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "Quý vị có cảm thấy rất không khỏe không?",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "Quý vị có đang hóa trị hoặc có bạch cầu thấp không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "Tôi không ăn hoặc uống được",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "Quý vị có nôn không?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Quý vị có giữ được nước uống không?",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Hôm nay quý vị uống rất ít phải không?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Quý vị có quá yếu đến mức không thể ra khỏi giường hoặc đi lại không?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "Tiêu chảy",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "Hôm nay quý vị bị tiêu chảy 4 lần hoặc hơn chưa?",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "Có máu trong phân không?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "Quý vị có sốt hoặc ớn lạnh không?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "Quý vị có chóng mặt hoặc không uống được không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "Táo bón",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "Quý vị chưa đi tiêu 3 ngày hoặc lâu hơn chưa?",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "Quý vị có đau bụng hoặc đầy bụng không?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Quý vị có nôn không?",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "Quý vị có không xì hơi được không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "Buồn nôn hoặc nôn",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "Hôm nay quý vị đã nôn hơn một lần chưa?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Quý vị có giữ được nước uống không?",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "Có máu trong chất nôn không?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Quý vị có chóng mặt hoặc rất yếu không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "Đau bụng",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Đau bụng có dữ dội không?",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "Bụng quý vị có sưng hoặc cứng không?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Quý vị có nôn không?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Quý vị có sốt hoặc ớn lạnh không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "Ăn kém",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "Quý vị đã không ăn hơn 24 giờ chưa?",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Hôm nay quý vị uống rất ít phải không?",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "Quý vị có sụt cân nhanh hoặc rất yếu không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "Vấn đề dạ dày hoặc ruột — tôi không chắc",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "Quý vị có không chắc chuyện gì đang xảy ra không?",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "Tôi có vấn đề về thở",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "Quý vị có khó thở khi nghỉ không?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Quý vị có đau ngực không?",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "Môi hoặc mặt có xanh tím không?",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "Quý vị có ho ra máu không?",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "Tình trạng này đột ngột hoặc nặng không?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "Tôi bị đau",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Cơn đau có dữ dội không?",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "Cơn đau có ở ngực không?",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "Quý vị có yếu đột ngột, tê, hoặc khó đi lại không?",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "Thuốc giảm đau thường dùng có không giúp không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "Tôi có thay đổi da hoặc phát ban",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "Phát ban có lan nhanh không?",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "Quý vị có bóng nước hoặc bong da không?",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "Quý vị có sưng mặt, môi hoặc cổ họng không?",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "Quý vị có sốt kèm phát ban không?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "Tôi có vấn đề ở miệng",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "Quý vị có không ăn hoặc uống được vì đau miệng không?",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "Quý vị có loét miệng không?",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "Có chảy máu không?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Quý vị có sốt không?",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "Quý vị có không nuốt được không?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "Tôi có câu hỏi về điều trị",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "Tôi đã quên một liều thuốc viên.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "Tôi đã nôn sau khi uống thuốc viên.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "Tôi không chắc hôm nay có nên uống thuốc viên không.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "Tôi có tác dụng phụ và không biết phải làm gì.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "Tôi cần thông tin cuộc hẹn.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "Thông tin đáng tin cậy",
+      "links": [
+        {
+          "title": "Thông tin cho người bệnh của Cancer Institute NSW",
+          "description": "Thông tin cho người bệnh về điều trị ung thư và tác dụng phụ.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "Thông tin cho người bệnh của eviQ",
+          "description": "Tờ thông tin cho người bệnh về điều trị và tác dụng phụ.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "Hỗ trợ và thông tin về ung thư cho người bệnh, gia đình và người chăm sóc.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "Thông tin đáng tin cậy bằng ngôn ngữ khác",
+      "links": [
+        {
+          "title": "Thông tin cho người bệnh eviQ bằng ngôn ngữ khác",
+          "description": "Thông tin cho người bệnh bằng các ngôn ngữ khác.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW cho cộng đồng đa văn hóa",
+          "description": "Thông tin hỗ trợ ung thư cho cộng đồng đa văn hóa.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Thông tin ung thư đa ngôn ngữ của Cancer Council",
+          "description": "Thông tin về ung thư bằng các ngôn ngữ khác.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

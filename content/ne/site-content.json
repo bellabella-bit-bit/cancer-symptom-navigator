@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "ne",
+    "htmlLang": "ne",
+    "dir": "ltr",
+    "nativeName": "नेपाली",
+    "shortName": "नेपाली"
+  },
+  "ui": {
+    "siteTitle": "क्यान्सर उपचार लक्षण मार्गदर्शक",
+    "back": "पछाडि",
+    "changeLanguage": "भाषा",
+    "continue": "जारी राख्नुहोस्",
+    "start": "सुरु गर्नुहोस्",
+    "startAgain": "फेरि सुरु गर्नुहोस्",
+    "yes": "हो",
+    "no": "होइन",
+    "notSure": "म निश्चित छैन",
+    "welcomeTitle": "मैले के गर्नुपर्छ?",
+    "welcome1": "St George Hospital Cancer Care Centre मा प्रणालीगत क्यान्सर उपचार लिइरहेका बिरामी र हेरचाहकर्ताहरूका लागि।",
+    "welcome2": "",
+    "welcome3": "तपाईंले हामीलाई दुःख दिनुभएको होइन।",
+    "emergencyShort": "छाती दुखेमा, सास फेर्न गाह्रो भएमा, अचानक कमजोरी आएमा, धेरै दुखाइ भएमा, वा ओछ्यानबाट उठ्न वा हिँड्न नसकेमा 000 मा फोन गर्नुहोस् वा नजिकको आपतकालीन विभागमा अहिले जानुहोस्।",
+    "worryTitle": "आज तपाईंलाई के कुराले चिन्तित बनाएको छ?",
+    "worryLead": "लागू हुने सबै छान्नुहोस्।",
+    "treatmentTitle": "के तपाईं यी मध्ये कुनै उपचार लिइरहनु भएको छ?",
+    "treatmentLead": "लागू हुने सबै छान्नुहोस्। उपचारको नाम थाहा हुनु आवश्यक छैन।",
+    "stomachTitle": "कस्तो पेट वा आन्द्राको समस्या?",
+    "sectionProgress": "प्रश्न खण्ड",
+    "resources": "विश्वसनीय जानकारी",
+    "contacts": "हामीलाई सम्पर्क गर्न चाहनुहुन्छ?",
+    "phone": "क्यान्सर केन्द्र फोन नम्बर",
+    "hours": "कार्यालय समय",
+    "afterHours": "कार्यालय समयपछि सल्लाह",
+    "interpreter": "दोभाषे सल्लाह",
+    "emergency": "आपतकालीन",
+    "finalTitle": "अब के गर्ने",
+    "redTitle": "आपतकालीन — 000 मा फोन गर्नुहोस् वा नजिकको आपतकालीन विभागमा अहिले जानुहोस्।",
+    "orangeTitle": "आज लक्षण सहायता फोनमा सम्पर्क गर्नुहोस्।",
+    "greenTitle": "स्व-हेरचाह र विश्वसनीय जानकारी।",
+    "unsureTitle": "सावधानीपूर्ण सल्लाह",
+    "redAdvice": "एक वा बढी उत्तरका कारण अहिले तुरुन्त मद्दत आवश्यक छ। आपतकालीन कर्मचारीलाई तपाईं क्यान्सर उपचार लिइरहेको बताउनुहोस्।",
+    "orangeAdvice": "कृपया आज लक्षण सहायता फोन 9113 3909 (विकल्प 1) मा सम्पर्क गर्नुहोस्। सक्नुहुन्छ भने दिनको चाँडै फोन गर्नुहोस्। आपतकालीन संकेत सुरु भएमा 000 मा फोन गर्नुहोस् वा आपतकालीनमा जानुहोस्।",
+    "greenAdvice": "आफ्नो उपचार योजना र विश्वसनीय जानकारी प्रयोग गर्नुहोस्। लक्षण जारी रह्यो, बदलियो वा चिन्ता लागेमा लक्षण सहायता फोनमा सम्पर्क गर्नुहोस्।",
+    "unsureAdvice": "यदि तपाईं निश्चित हुनुहुन्न भने लक्षण सहायता फोन 9113 3909 (विकल्प 1) मा सम्पर्क गर्नुहोस्। आपतकालीन संकेत सुरु भएमा 000 मा फोन गर्नुहोस् वा आपतकालीनमा जानुहोस्।",
+    "noStore": "यस उपकरणले तपाईंका उत्तरहरू भण्डारण गर्दैन र निदान गर्दैन।",
+    "translationNote": "अनुवाद र क्लिनिकल शब्दहरू बिरामी प्रयोग अघि स्थानीय रूपमा जाँच गर्नुपर्छ।",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "मुख्य सामग्रीमा जानुहोस्",
+    "helpLineTitle": "लक्षण सहायता फोन",
+    "helpLineNumber": "(02) 9113 3909, विकल्प 1",
+    "helpLineHours": "सोमबार-शुक्रबार, बिहान 8:00-बेलुका 4:00\nसार्वजनिक बिदामा बन्द।",
+    "treatmentQuestions": "उपचार प्रश्न (HODC नर्स): 9113 3767",
+    "treatmentAppointment": "उपचार अपोइन्टमेन्ट परिवर्तन (HODC): 9113 1175",
+    "doctorAppointments": "डाक्टर अपोइन्टमेन्ट: 9113 3909",
+    "callEarlyTitle": "सक्नुहुन्छ भने चाँडै फोन गर्नुहोस्।",
+    "callEarlyText": "यसले घरमै लक्षण सम्हाल्न मद्दत गर्न सक्छ।",
+    "notEverythingEmergency": "आकस्मिक अवस्था हो?\nछाती दुख्ने, सास फेर्न गाह्रो हुने, धेरै रक्तस्राव, धेरै पीडा, अचानक लड्ने, दौरा पर्ने, वा अचानक अलमल हुने भए तुरुन्त 000 मा फोन गर्नुहोस्।",
+    "quickCheck": "छिटो जाँच",
+    "fewerQuestions": "केही प्रश्न मात्र छन्। तिनले तपाईंले लक्षण सहायता फोन गर्नुपर्ने हो वा तुरुन्त मद्दत चाहिने हो भन्ने ठहर गर्न मद्दत गर्छन्।",
+    "interpreterSectionTitle": "दोभाषे सेवा",
+    "interpreterSectionText": "यदि अंग्रेजी तपाईंको रोजाइको भाषा होइन भने 131 450 मा फोन गर्नुहोस् र St George Cancer Care मा सम्पर्क गर्न सहयोगका लागि दोभाषे माग्नुहोस्।",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "फोन गर्न परिवारका सदस्य वा साथीको सहयोग पनि लिन सक्नुहुन्छ।",
+    "welcome4": "निश्चित नभए पनि कृपया हामीलाई चाँडै फोन गर्नुहोस्।",
+    "welcomePrompt": "क्यान्सर उपचारका क्रममा असहज महसुस भइरहेको छ वा कुनै लक्षणको चिन्ता छ?",
+    "welcomeSupport": "यस वेबसाइटले तपाईंलाई अब के गर्ने भन्ने निर्णय गर्न मद्दत गर्न सक्छ।",
+    "contactLink": "क्यान्सर केयर सेन्टरमा सम्पर्क गर्नुहोस्",
+    "footerGeneral": "सामान्य जानकारी मात्र। यो चिकित्सकीय सल्लाहको विकल्प होइन।",
+    "treatmentQuestionsTitle": "🩺 किमोथेरापी वा इम्युनोथेरापी सम्बन्धी प्रश्न",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 उपचारको समय परिवर्तन",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ डाक्टर भेटघाट",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 दोभाषे चाहिन्छ?",
+    "emergencyPromptTitle": "🚨 आकस्मिक अवस्था",
+    "emergencyContactText": "यदि यो आकस्मिक अवस्था हो भने तुरुन्त 000 मा फोन गर्नुहोस्।",
+    "emergencyQuestion": "के यो आकस्मिक अवस्था हो?",
+    "emergencySymptoms": "छाती दुख्ने, सास फेर्न गाह्रो हुने, धेरै रक्तस्राव, धेरै पीडा, अचानक लड्ने, दौरा पर्ने, वा अचानक अलमल हुने।",
+    "call000Now": "अहिले 000 मा फोन गर्नुहोस्",
+    "helpLineHoursShort": "सोम-शुक्र, बिहान ८ देखि बेलुका ४। सार्वजनिक बिदामा बन्द।",
+    "callAdviceTitle": "सिफारिस गरिएको अर्को कदम",
+    "callAdviceIntro": "तपाईंका उत्तरहरूका आधारमा, कृपया सल्लाहका लागि लक्षण सहायता फोनमा सम्पर्क गर्नुहोस्:",
+    "callAdviceEscalation": "यदि आकस्मिक लक्षण सुरु भएमा, 000 मा फोन गर्नुहोस् वा आपतकालीन विभागमा जानुहोस्।"
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "मलाई सञ्चो छैन",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "मलाई ज्वरो आएको वा तातो महसुस भएको छ",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "म खान वा पिउन सक्दिनँ",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "मलाई पेट वा आन्द्राको समस्या छ",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "मलाई सास फेर्न समस्या छ",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "मलाई दुखाइ छ",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "मलाई छालामा परिवर्तन वा दाग छ",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "मलाई मुखको समस्या छ",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "मलाई उपचारबारे प्रश्न छ",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "म निश्चित छैन",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "झाडापखाला",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "कब्जियत",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "वाकवाकी वा बान्ता",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "पेट दुखाइ",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "भोक कम लाग्नु",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "म निश्चित छैन",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "केमोथेरापी",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "इम्युनोथेरापी",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "लक्षित उपचार",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "मुखबाट खाने क्यान्सर औषधि",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "हर्मोन उपचार",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "एकभन्दा बढी उपचार",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "म निश्चित छैन",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "मलाई सञ्चो छैन",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "के तपाईंलाई ज्वरो वा चिसो लाग्ने भएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "के तपाईंलाई सास फेर्न गाह्रो छ?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "के तपाईंलाई छाती दुखेको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "के अचानक कमजोरी आएको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "के तपाईं ओछ्यानबाट उठ्न वा हिँड्न नसक्ने गरी कमजोर हुनुहुन्छ?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "मलाई ज्वरो आएको वा तातो महसुस भएको छ",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "के तपाईंको तापक्रम 38°C वा बढी छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "के तपाईंलाई धेरै काम्ने चिसो लागेको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "के तपाईं धेरै अस्वस्थ महसुस गर्नुहुन्छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "के तपाईं केमोथेरापी लिइरहनु भएको छ वा सेतो रक्तकोष कम छ?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "म खान वा पिउन सक्दिनँ",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "के तपाईंलाई बान्ता भइरहेको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "के तपाईं तरल पदार्थ पेटमा राख्न सक्नुहुन्छ?",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "के तपाईंले आज धेरै कम पिउनुभएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "के तपाईं ओछ्यानबाट उठ्न वा हिँड्न नसक्ने गरी कमजोर हुनुहुन्छ?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "झाडापखाला",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "के तपाईंलाई आज 4 पटक वा बढी झाडापखाला भएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "के दिसामा रगत छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "के तपाईंलाई ज्वरो वा चिसो लागेको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "के तपाईंलाई चक्कर लागेको छ वा पिउन सक्नुहुन्न?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "कब्जियत",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "के तपाईंले 3 दिन वा बढी दिसा गर्नुभएको छैन?",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "के तपाईंलाई पेट दुख्ने वा फुल्ने छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "के तपाईंलाई बान्ता भइरहेको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "के तपाईं हावा पास गर्न सक्नुहुन्न?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "वाकवाकी वा बान्ता",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "के तपाईंले आज एक पटकभन्दा बढी बान्ता गर्नुभएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "के तपाईं तरल पदार्थ पेटमा राख्न सक्नुहुन्छ?",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "के बान्तामा रगत छ?",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "के तपाईंलाई चक्कर लाग्छ वा धेरै कमजोर हुनुहुन्छ?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "पेट दुखाइ",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "के पेट दुखाइ धेरै छ?",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "के तपाईंको पेट फुलेको वा कडा छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "के तपाईंलाई बान्ता भइरहेको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "के तपाईंलाई ज्वरो वा चिसो लागेको छ?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "भोक कम लाग्नु",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "के तपाईंले 24 घण्टाभन्दा बढी केही खानुभएको छैन?",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "के तपाईंले आज धेरै कम पिउनुभएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "के तपाईंको तौल छिटो घट्दैछ वा धेरै कमजोर महसुस गर्दै हुनुहुन्छ?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "पेट वा आन्द्राको समस्या — म निश्चित छैन",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "के तपाईं के भइरहेको छ भनेर निश्चित हुनुहुन्न?",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "मलाई सास फेर्न समस्या छ",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "के आराम गर्दा पनि सास फेर्न गाह्रो छ?",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "के छाती दुखेको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "के ओठ वा अनुहार निलो भएको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "के तपाईं रगत खोक्दै हुनुहुन्छ?",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "के यो अचानक वा गम्भीर छ?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "मलाई दुखाइ छ",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "के दुखाइ धेरै छ?",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "के दुखाइ छातीमा छ?",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "के अचानक कमजोरी, झनझनाहट, वा हिँड्न गाह्रो भएको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "के तपाईंको सामान्य दुखाइको औषधिले मद्दत गरेको छैन?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "मलाई छालामा परिवर्तन वा दाग छ",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "के दाग छिटो फैलिँदैछ?",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "के फोका वा छाला उप्किने छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "के अनुहार, ओठ वा घाँटी सुन्निएको छ?",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "के दागसँगै ज्वरो छ?",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "मलाई मुखको समस्या छ",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "के मुख दुखाइका कारण खान वा पिउन सक्नुहुन्न?",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "के मुखमा घाउ छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "के रगत आएको छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "के ज्वरो छ?",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "के निल्न सक्नुहुन्न?",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "मलाई उपचारबारे प्रश्न छ",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "मैले मेरो औषधिको एक मात्रा छुटाएँ।",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "औषधि खाएपछि मलाई बान्ता भयो।",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "आज औषधि लिनु पर्छ कि पर्दैन निश्चित छैन।",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "मलाई साइड इफेक्ट छ र के गर्ने थाहा छैन।",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "मलाई अपोइन्टमेन्ट जानकारी चाहिन्छ।",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "विश्वसनीय जानकारी",
+      "links": [
+        {
+          "title": "Cancer Institute NSW बिरामी जानकारी",
+          "description": "क्यान्सर उपचार र साइड इफेक्टबारे बिरामी जानकारी।",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "eviQ बिरामी जानकारी",
+          "description": "उपचार र साइड इफेक्टबारे बिरामी जानकारी सामग्री।",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "बिरामी, परिवार र हेरचाहकर्ताका लागि सहयोग र क्यान्सर जानकारी।",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "अन्य भाषामा विश्वसनीय जानकारी",
+      "links": [
+        {
+          "title": "eviQ अन्य भाषामा बिरामी जानकारी",
+          "description": "अन्य भाषामा बिरामी जानकारी।",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW बहुसांस्कृतिक समुदाय",
+          "description": "बहुसांस्कृतिक समुदायका लागि क्यान्सर सहयोग जानकारी।",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Cancer Council बहुभाषी क्यान्सर जानकारी",
+          "description": "अन्य भाषामा क्यान्सर जानकारी।",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

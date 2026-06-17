@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "el",
+    "htmlLang": "el",
+    "dir": "ltr",
+    "nativeName": "Ελληνικά",
+    "shortName": "Ελληνικά"
+  },
+  "ui": {
+    "siteTitle": "Πλοηγός Συμπτωμάτων Θεραπείας Καρκίνου",
+    "back": "Πίσω",
+    "changeLanguage": "Γλώσσα",
+    "continue": "Συνέχεια",
+    "start": "Έναρξη",
+    "startAgain": "Ξεκινήστε ξανά",
+    "yes": "Ναι",
+    "no": "Όχι",
+    "notSure": "Δεν είμαι σίγουρος/η",
+    "welcomeTitle": "Τι πρέπει να κάνω;",
+    "welcome1": "Για ασθενείς και φροντιστές που λαμβάνουν συστηματική θεραπεία για τον καρκίνο στο",
+    "welcome2": "St George Hospital Cancer Care Centre.",
+    "welcome3": "Δεν μας ενοχλείτε.",
+    "emergencyShort": "Καλέστε το 000 ή πηγαίνετε τώρα στα επείγοντα για πόνο στο στήθος, δυσκολία στην αναπνοή, ξαφνική αδυναμία, έντονο πόνο ή αν δεν μπορείτε να σηκωθείτε από το κρεβάτι ή να περπατήσετε.",
+    "worryTitle": "Τι σας ανησυχεί σήμερα;",
+    "worryLead": "Επιλέξτε όσα ισχύουν.",
+    "treatmentTitle": "Λαμβάνετε κάποια από αυτές τις θεραπείες;",
+    "treatmentLead": "Επιλέξτε όσα ισχύουν. Δεν χρειάζεται να ξέρετε το όνομα της θεραπείας.",
+    "stomachTitle": "Ποια προβλήματα στομάχου ή εντέρου;",
+    "sectionProgress": "Ενότητα ερωτήσεων",
+    "resources": "Αξιόπιστες πληροφορίες",
+    "contacts": "Θέλετε να επικοινωνήσετε μαζί μας;",
+    "phone": "Τηλέφωνο κέντρου καρκίνου",
+    "hours": "Ώρες λειτουργίας",
+    "afterHours": "Συμβουλές εκτός ωρών",
+    "interpreter": "Συμβουλή για διερμηνέα",
+    "emergency": "Επείγον",
+    "finalTitle": "Τι να κάνετε τώρα",
+    "redTitle": "Επείγον — καλέστε το 000 ή πηγαίνετε τώρα στα πλησιέστερα επείγοντα.",
+    "orangeTitle": "Καλέστε σήμερα τη γραμμή βοήθειας συμπτωμάτων.",
+    "greenTitle": "Αυτοφροντίδα και αξιόπιστες πληροφορίες.",
+    "unsureTitle": "Προσεκτική συμβουλή",
+    "redAdvice": "Με βάση μία ή περισσότερες απαντήσεις, χρειάζεται επείγουσα βοήθεια τώρα. Πείτε στο προσωπικό ότι λαμβάνετε θεραπεία καρκίνου.",
+    "orangeAdvice": "Καλέστε σήμερα τη γραμμή βοήθειας συμπτωμάτων: 9113 3909 (Επιλογή 1). Καλέστε όσο πιο νωρίς μπορείτε. Αν αρχίσουν επείγοντα σημάδια, καλέστε το 000 ή πηγαίνετε στα επείγοντα.",
+    "greenAdvice": "Χρησιμοποιήστε το σχέδιο θεραπείας και αξιόπιστες πληροφορίες. Αν τα συμπτώματα συνεχιστούν, αλλάξουν ή σας ανησυχούν, καλέστε τη γραμμή συμπτωμάτων.",
+    "unsureAdvice": "Αν δεν είστε σίγουρος/η, καλέστε τη γραμμή βοήθειας συμπτωμάτων: 9113 3909 (Επιλογή 1). Αν αρχίσουν επείγοντα σημάδια, καλέστε το 000 ή πηγαίνετε στα επείγοντα.",
+    "noStore": "Αυτό το εργαλείο δεν αποθηκεύει απαντήσεις και δεν κάνει διάγνωση.",
+    "translationNote": "Οι μεταφράσεις και το κλινικό κείμενο πρέπει να ελεγχθούν τοπικά πριν από χρήση με ασθενείς.",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "Μετάβαση στο περιεχόμενο",
+    "helpLineTitle": "Γραμμή βοήθειας για συμπτώματα",
+    "helpLineNumber": "(02) 9113 3909, επιλογή 1",
+    "helpLineHours": "Δευτέρα-Παρασκευή, 8:00 π.μ.-4:00 μ.μ.\nΚλειστά τις δημόσιες αργίες.",
+    "treatmentQuestions": "Ερωτήσεις θεραπείας (νοσηλευτές HODC): 9113 3767",
+    "treatmentAppointment": "Αλλαγή ραντεβού θεραπείας (HODC): 9113 1175",
+    "doctorAppointments": "Ραντεβού γιατρού: 9113 3909",
+    "callEarlyTitle": "Καλέστε νωρίς αν μπορείτε.",
+    "callEarlyText": "Αυτό μπορεί να βοηθήσει στη διαχείριση των συμπτωμάτων στο σπίτι.",
+    "notEverythingEmergency": "Επείγον;\nΠόνος στο στήθος, δυσκολία στην αναπνοή, σοβαρή αιμορραγία, έντονος πόνος, ξαφνική κατάρρευση, επιληπτική κρίση ή ξαφνική σύγχυση — καλέστε αμέσως το 000.",
+    "quickCheck": "Γρήγορος έλεγχος",
+    "fewerQuestions": "Μόνο λίγες ερωτήσεις. Τις χρησιμοποιούμε για να αποφασίσουμε αν πρέπει να καλέσετε τη γραμμή συμπτωμάτων ή να ζητήσετε επείγουσα βοήθεια.",
+    "interpreterSectionTitle": "Υπηρεσία διερμηνέα",
+    "interpreterSectionText": "Αν τα αγγλικά δεν είναι η προτιμώμενη γλώσσα σας, καλέστε το 131 450 και ζητήστε διερμηνέα για να σας βοηθήσει να επικοινωνήσετε με το St George Cancer Care.",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "Μπορείτε επίσης να ζητήσετε από μέλος της οικογένειας ή φίλο να σας βοηθήσει να κάνετε το τηλεφώνημα.",
+    "welcome4": "Παρακαλούμε καλέστε μας νωρίς — ακόμη κι αν δεν είστε σίγουροι.",
+    "welcomePrompt": "Νιώθετε αδιαθεσία ή ανησυχείτε για κάποιο σύμπτωμα κατά τη διάρκεια της θεραπείας;",
+    "welcomeSupport": "Αυτή η ιστοσελίδα μπορεί να σας βοηθήσει να αποφασίσετε τι να κάνετε στη συνέχεια.",
+    "contactLink": "Επικοινωνία με το Κέντρο Αντικαρκινικής Φροντίδας",
+    "footerGeneral": "Γενικές πληροφορίες μόνο. Δεν υποκαθιστά την ιατρική συμβουλή.",
+    "treatmentQuestionsTitle": "🩺 Ερωτήσεις για χημειοθεραπεία ή ανοσοθεραπεία",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 Αλλαγή ραντεβού θεραπείας",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ Ραντεβού με γιατρό",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 Χρειάζεστε διερμηνέα;",
+    "emergencyPromptTitle": "🚨 Επείγον",
+    "emergencyContactText": "Καλέστε αμέσως το 000 αν πρόκειται για επείγον περιστατικό.",
+    "emergencyQuestion": "Είναι επείγον;",
+    "emergencySymptoms": "Πόνος στο στήθος, δυσκολία στην αναπνοή, σοβαρή αιμορραγία, έντονος πόνος, ξαφνική κατάρρευση, επιληπτική κρίση ή ξαφνική σύγχυση.",
+    "call000Now": "Καλέστε τώρα το 000",
+    "helpLineHoursShort": "Δευ-Παρ, 8πμ-4μμ. Κλειστά τις δημόσιες αργίες.",
+    "callAdviceTitle": "Προτεινόμενο επόμενο βήμα",
+    "callAdviceIntro": "Με βάση τις απαντήσεις σας, παρακαλούμε καλέστε τη Γραμμή Βοήθειας Συμπτωμάτων για συμβουλή:",
+    "callAdviceEscalation": "Αν αρχίσουν σημάδια επείγοντος, καλέστε το 000 ή πηγαίνετε στο Τμήμα Επειγόντων Περιστατικών."
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "Δεν αισθάνομαι καλά",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "Έχω πυρετό ή ζεσταίνομαι",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "Δεν μπορώ να φάω ή να πιω",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "Έχω προβλήματα στομάχου ή εντέρου",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "Έχω προβλήματα αναπνοής",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "Έχω πόνο",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "Έχω αλλαγές στο δέρμα ή εξάνθημα",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "Έχω προβλήματα στο στόμα",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "Έχω ερωτήσεις για τη θεραπεία μου",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "Δεν είμαι σίγουρος/η",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "Διάρροια",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "Δυσκοιλιότητα",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "Ναυτία ή έμετος",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "Πόνος στο στομάχι",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "Μειωμένη όρεξη",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "Δεν είμαι σίγουρος/η",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "Χημειοθεραπεία",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "Ανοσοθεραπεία",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "Στοχευμένη θεραπεία",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "Αντικαρκινικά δισκία από το στόμα",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "Ορμονοθεραπεία",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "Περισσότερες από μία θεραπείες",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "Δεν είμαι σίγουρος/η",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "Δεν αισθάνομαι καλά",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "Έχετε πυρετό ή ρίγη;",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "Έχετε δυσκολία στην αναπνοή;",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Έχετε πόνο στο στήθος;",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "Έχετε ξαφνική αδυναμία;",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "Είστε πολύ αδύναμος/η για να σηκωθείτε από το κρεβάτι ή να περπατήσετε;",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "Έχω πυρετό ή ζεσταίνομαι",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "Είναι η θερμοκρασία σας 38°C ή υψηλότερη;",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "Έχετε έντονα ρίγη;",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "Αισθάνεστε πολύ άρρωστος/η;",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "Λαμβάνετε χημειοθεραπεία ή έχετε χαμηλά λευκά αιμοσφαίρια;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "Δεν μπορώ να φάω ή να πιω",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "Κάνετε εμετό;",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Μπορείτε να κρατήσετε υγρά;",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Ήπιατε πολύ λίγο σήμερα;",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Είστε πολύ αδύναμος/η για να σηκωθείτε από το κρεβάτι ή να περπατήσετε;",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "Διάρροια",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "Είχατε διάρροια 4 ή περισσότερες φορές σήμερα;",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "Υπάρχει αίμα στα κόπρανα;",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "Έχετε πυρετό ή ρίγη;",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "Ζαλίζεστε ή δεν μπορείτε να πιείτε;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "Δυσκοιλιότητα",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "Δεν έχετε ενεργηθεί για 3 ημέρες ή περισσότερο;",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "Έχετε πόνο ή φούσκωμα στην κοιλιά;",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Κάνετε εμετό;",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "Δεν μπορείτε να βγάλετε αέρια;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "Ναυτία ή έμετος",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "Κάνατε εμετό περισσότερες από μία φορές σήμερα;",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "Μπορείτε να κρατήσετε υγρά;",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "Υπάρχει αίμα στον εμετό;",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "Ζαλίζεστε ή είστε πολύ αδύναμος/η;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "Πόνος στο στομάχι",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Είναι ο πόνος στο στομάχι σοβαρός;",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "Είναι η κοιλιά σας πρησμένη ή σκληρή;",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "Κάνετε εμετό;",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Έχετε πυρετό ή ρίγη;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "Μειωμένη όρεξη",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "Δεν έχετε φάει για πάνω από 24 ώρες;",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "Ήπιατε πολύ λίγο σήμερα;",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "Χάνετε γρήγορα βάρος ή αισθάνεστε πολύ αδύναμος/η;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "Πρόβλημα στομάχου ή εντέρου — δεν είμαι σίγουρος/η",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "Δεν είστε σίγουρος/η τι συμβαίνει;",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "Έχω προβλήματα αναπνοής",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "Έχετε δύσπνοια σε ηρεμία;",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "Έχετε πόνο στο στήθος;",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "Είναι μπλε τα χείλη ή το πρόσωπό σας;",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "Βήχετε αίμα;",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "Είναι ξαφνικό ή σοβαρό;",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "Έχω πόνο",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "Είναι ο πόνος σοβαρός;",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "Είναι ο πόνος στο στήθος;",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "Έχετε ξαφνική αδυναμία, μούδιασμα ή δυσκολία στο περπάτημα;",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "Δεν βοηθά το συνηθισμένο παυσίπονο;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "Έχω αλλαγές στο δέρμα ή εξάνθημα",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "Εξαπλώνεται γρήγορα το εξάνθημα;",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "Έχετε φουσκάλες ή ξεφλούδισμα;",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "Έχετε πρήξιμο στο πρόσωπο, τα χείλη ή τον λαιμό;",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "Έχετε πυρετό με το εξάνθημα;",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "Έχω προβλήματα στο στόμα",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "Δεν μπορείτε να φάτε ή να πιείτε λόγω πόνου στο στόμα;",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "Έχετε έλκη στο στόμα;",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "Υπάρχει αιμορραγία;",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "Έχετε πυρετό;",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "Δεν μπορείτε να καταπιείτε;",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "Έχω ερωτήσεις για τη θεραπεία μου",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "Ξέχασα μία δόση από τα δισκία μου.",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "Έκανα εμετό αφού πήρα τα δισκία μου.",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "Δεν είμαι σίγουρος/η αν πρέπει να πάρω τα δισκία σήμερα.",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "Έχω παρενέργειες και δεν ξέρω τι να κάνω.",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "Χρειάζομαι πληροφορίες για ραντεβού.",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "Αξιόπιστες πληροφορίες",
+      "links": [
+        {
+          "title": "Πληροφορίες ασθενών Cancer Institute NSW",
+          "description": "Πληροφορίες για ασθενείς σχετικά με θεραπεία καρκίνου και παρενέργειες.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "Πληροφορίες ασθενών eviQ",
+          "description": "Φύλλα πληροφοριών για ασθενείς σχετικά με θεραπεία και παρενέργειες.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "Υποστήριξη και πληροφορίες καρκίνου για ασθενείς, οικογένειες και φροντιστές.",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "Αξιόπιστες πληροφορίες σε άλλες γλώσσες",
+      "links": [
+        {
+          "title": "Πληροφορίες ασθενών eviQ σε άλλες γλώσσες",
+          "description": "Πληροφορίες ασθενών σε άλλες γλώσσες.",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW πολυπολιτισμικές κοινότητες",
+          "description": "Πληροφορίες υποστήριξης καρκίνου για πολυπολιτισμικές κοινότητες.",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Πολύγλωσσες πληροφορίες για τον καρκίνο από το Cancer Council",
+          "description": "Πληροφορίες για τον καρκίνο σε άλλες γλώσσες.",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

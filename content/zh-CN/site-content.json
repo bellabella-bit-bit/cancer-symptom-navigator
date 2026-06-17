@@ -1,0 +1,618 @@
+{
+  "language": {
+    "id": "zh-CN",
+    "htmlLang": "zh-Hans",
+    "dir": "ltr",
+    "nativeName": "简体中文",
+    "shortName": "简体中文"
+  },
+  "ui": {
+    "siteTitle": "癌症治疗症状导航",
+    "back": "返回",
+    "changeLanguage": "语言",
+    "continue": "继续",
+    "start": "开始",
+    "startAgain": "重新开始",
+    "yes": "是",
+    "no": "否",
+    "notSure": "我不确定",
+    "welcomeTitle": "我该怎么办？",
+    "welcome1": "供在 St George Hospital Cancer Care Centre 接受全身性癌症治疗的患者及照护者使用。",
+    "welcome2": "",
+    "welcome3": "您不是在打扰我们。",
+    "emergencyShort": "如果出现胸痛、呼吸困难、突然无力、剧烈疼痛，或不能下床或行走，请拨打000或立即去最近的急诊。",
+    "worryTitle": "今天让您担心的是什么？",
+    "worryLead": "可选择多项。",
+    "treatmentTitle": "您正在接受以下任何治疗吗？",
+    "treatmentLead": "可选择多项。您不需要知道治疗名称。",
+    "stomachTitle": "是哪种胃肠问题？",
+    "sectionProgress": "问题部分",
+    "resources": "可信信息",
+    "contacts": "需要联系我们吗？",
+    "phone": "癌症中心电话",
+    "hours": "办公时间",
+    "afterHours": "非办公时间咨询",
+    "interpreter": "口译服务建议",
+    "emergency": "紧急",
+    "finalTitle": "现在该怎么做",
+    "redTitle": "紧急 — 立即拨打000或去最近的急诊。",
+    "orangeTitle": "今天致电症状帮助热线。",
+    "greenTitle": "自我护理和可信信息。",
+    "unsureTitle": "谨慎建议",
+    "redAdvice": "根据一个或多个回答，现在需要紧急帮助。请告诉急救人员您正在接受癌症治疗。",
+    "orangeAdvice": "请今天致电症状帮助热线：9113 3909（选项1）。请尽量早些致电。如果开始出现紧急征象，请拨打000或去急诊。",
+    "greenAdvice": "请使用您的治疗计划和可信信息。如果症状持续、变化或让您担心，请致电症状帮助热线。",
+    "unsureAdvice": "如果您不确定，请致电症状帮助热线：9113 3909（选项1）。如果开始出现紧急征象，请拨打000或去急诊。",
+    "noStore": "本工具不会保存您的回答，也不会诊断。",
+    "translationNote": "多语言和临床文字草稿应由本地临床人员和认证口译员审核后再用于患者。",
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only.",
+    "skipContent": "跳到主要内容",
+    "helpLineTitle": "症状帮助热线",
+    "helpLineNumber": "(02) 9113 3909，选项 1",
+    "helpLineHours": "周一至周五，上午 8:00 至下午 4:00\n公众假期关闭。",
+    "treatmentQuestions": "治疗问题（HODC护士）：9113 3767",
+    "treatmentAppointment": "更改治疗预约（HODC）：9113 1175",
+    "doctorAppointments": "医生预约：9113 3909",
+    "callEarlyTitle": "如果可以，请尽早致电。",
+    "callEarlyText": "这可能有助于在家中处理症状。",
+    "notEverythingEmergency": "紧急吗？\n胸痛、呼吸困难、大量出血、剧烈疼痛、突然倒下、癫痫发作，或突然意识混乱——请立即拨打 000。",
+    "quickCheck": "快速检查",
+    "fewerQuestions": "只有几个问题。我们用它们来判断您是应该打症状帮助热线，还是需要紧急帮助。",
+    "interpreterSectionTitle": "口译服务",
+    "interpreterSectionText": "如果英语不是您的首选语言，请拨打131 450，并要求口译员帮助您联系 St George Cancer Care。",
+    "interpreterCareCentre": "Cancer Care Centre: (02) 9113 3909",
+    "interpreterFamilyText": "您也可以请家人或朋友帮助您拨打电话。",
+    "welcome4": "请尽早给我们打电话——即使您还不确定。",
+    "welcomePrompt": "癌症治疗期间感到不舒服，或担心某个症状吗？",
+    "welcomeSupport": "本网站可以帮助您判断下一步该怎么做。",
+    "contactLink": "联系癌症护理中心",
+    "footerGeneral": "仅供一般信息参考。不能替代医疗建议。",
+    "treatmentQuestionsTitle": "🩺 化疗或免疫治疗问题",
+    "treatmentQuestionsNumber": "(02) 9113 3767",
+    "treatmentAppointmentTitle": "📅 更改治疗预约",
+    "treatmentAppointmentNumber": "(02) 9113 1175",
+    "doctorAppointmentsTitle": "👨‍⚕️ 医生预约",
+    "doctorAppointmentsNumber": "(02) 9113 3909",
+    "interpreterPromptTitle": "🌐 需要口译员吗？",
+    "emergencyPromptTitle": "🚨 紧急情况",
+    "emergencyContactText": "如果这是紧急情况，请立即拨打 000。",
+    "emergencyQuestion": "这是紧急情况吗？",
+    "emergencySymptoms": "胸痛、呼吸困难、大量出血、剧烈疼痛、突然倒下、癫痫发作，或突然意识混乱。",
+    "call000Now": "立即拨打 000",
+    "helpLineHoursShort": "周一至周五，上午8点至下午4点。公众假期关闭。",
+    "callAdviceTitle": "建议的下一步",
+    "callAdviceIntro": "根据您的回答，请致电症状帮助热线寻求建议：",
+    "callAdviceEscalation": "如果开始出现紧急征象，请拨打 000 或前往急诊科。"
+  },
+  "concerns": [
+    {
+      "id": "unwell",
+      "label": "我感觉不舒服",
+      "emoji": "😟"
+    },
+    {
+      "id": "fever",
+      "label": "我发热或感觉发烫",
+      "emoji": "🌡️"
+    },
+    {
+      "id": "eat-drink",
+      "label": "我不能吃或喝",
+      "emoji": "🥤"
+    },
+    {
+      "id": "stomach",
+      "label": "我有胃肠问题",
+      "emoji": "💩"
+    },
+    {
+      "id": "breathing",
+      "label": "我有呼吸问题",
+      "emoji": "🫁"
+    },
+    {
+      "id": "pain",
+      "label": "我有疼痛",
+      "emoji": "⚡"
+    },
+    {
+      "id": "skin",
+      "label": "我有皮肤变化或皮疹",
+      "emoji": "🧴"
+    },
+    {
+      "id": "mouth",
+      "label": "我有口腔问题",
+      "emoji": "👄"
+    },
+    {
+      "id": "treatment-questions",
+      "label": "我对治疗有疑问",
+      "emoji": "💊"
+    },
+    {
+      "id": "unsure",
+      "label": "我不确定",
+      "emoji": "❓"
+    }
+  ],
+  "stomachOptions": [
+    {
+      "id": "diarrhoea",
+      "label": "腹泻",
+      "emoji": "💩"
+    },
+    {
+      "id": "constipation",
+      "label": "便秘",
+      "emoji": "🚽"
+    },
+    {
+      "id": "nausea-vomiting",
+      "label": "恶心或呕吐",
+      "emoji": "🤢"
+    },
+    {
+      "id": "stomach-pain",
+      "label": "胃痛或肚子痛",
+      "emoji": "🤕"
+    },
+    {
+      "id": "poor-appetite",
+      "label": "食欲差",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "stomach-unsure",
+      "label": "我不确定",
+      "emoji": "❓"
+    }
+  ],
+  "treatments": [
+    {
+      "id": "chemotherapy",
+      "label": "化疗",
+      "emoji": "💧"
+    },
+    {
+      "id": "immunotherapy",
+      "label": "免疫治疗",
+      "emoji": "🛡️"
+    },
+    {
+      "id": "targeted",
+      "label": "靶向治疗",
+      "emoji": "🎯"
+    },
+    {
+      "id": "oral",
+      "label": "口服抗癌药片",
+      "emoji": "💊"
+    },
+    {
+      "id": "hormone",
+      "label": "激素治疗",
+      "emoji": "⚕️"
+    },
+    {
+      "id": "multiple",
+      "label": "不止一种治疗",
+      "emoji": "➕"
+    },
+    {
+      "id": "unsure",
+      "label": "我不确定",
+      "emoji": "❓"
+    }
+  ],
+  "sections": {
+    "unwell": {
+      "title": "我感觉不舒服",
+      "questions": [
+        {
+          "id": "fever-chills",
+          "text": "您有发热或寒战吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "breathing",
+          "text": "您呼吸困难吗？",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "您有胸痛吗？",
+          "yes": "red"
+        },
+        {
+          "id": "confused",
+          "text": "您是否突然无力？",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-falling",
+          "text": "您是否虚弱到不能下床或行走？",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "fever": {
+      "title": "我发热或感觉发烫",
+      "questions": [
+        {
+          "id": "temp-38",
+          "text": "您的体温是38°C或更高吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "shaking-chills",
+          "text": "您有发抖的寒战吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "very-unwell",
+          "text": "您感觉很不舒服吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "chemo-low-cells",
+          "text": "您正在接受化疗，或白细胞低吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "eat-drink": {
+      "title": "我不能吃或喝",
+      "questions": [
+        {
+          "id": "vomiting",
+          "text": "您在呕吐吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "您能把液体喝下并留住吗？",
+          "no": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "您今天喝得很少吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "您是否虚弱到不能下床或行走？",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "diarrhoea": {
+      "title": "腹泻",
+      "questions": [
+        {
+          "id": "four-times",
+          "text": "您今天腹泻4次或更多吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "blood-stool",
+          "text": "大便里有血吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "fever-chills",
+          "text": "您有发热或寒战吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "dizzy-unable-drink",
+          "text": "您头晕或不能喝水吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "constipation": {
+      "title": "便秘",
+      "questions": [
+        {
+          "id": "three-days",
+          "text": "您已经3天或更久没有排便吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "pain-bloating",
+          "text": "您有肚子痛或腹胀吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "您在呕吐吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "no-wind",
+          "text": "您不能放屁吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "nausea-vomiting": {
+      "title": "恶心或呕吐",
+      "questions": [
+        {
+          "id": "repeated-vomit",
+          "text": "您今天呕吐超过一次吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "fluids-down",
+          "text": "您能把液体喝下并留住吗？",
+          "no": "orange"
+        },
+        {
+          "id": "blood-vomit",
+          "text": "呕吐物里有血吗？",
+          "yes": "red"
+        },
+        {
+          "id": "dizzy-weak",
+          "text": "您头晕或非常虚弱吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-pain": {
+      "title": "胃痛或肚子痛",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "肚子痛很严重吗？",
+          "yes": "red"
+        },
+        {
+          "id": "swollen",
+          "text": "您的肚子胀或发硬吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "vomiting",
+          "text": "您在呕吐吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "您有发热或寒战吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "poor-appetite": {
+      "title": "食欲差",
+      "questions": [
+        {
+          "id": "no-food-24",
+          "text": "您超过24小时没有进食吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "little-drink",
+          "text": "您今天喝得很少吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "weight-weak",
+          "text": "您体重快速下降或感觉非常虚弱吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "stomach-unsure": {
+      "title": "胃肠问题 — 我不确定",
+      "questions": [
+        {
+          "id": "unsure",
+          "text": "您不确定发生了什么吗？",
+          "yes": "orange",
+          "unsure": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "breathing": {
+      "title": "我有呼吸问题",
+      "questions": [
+        {
+          "id": "rest",
+          "text": "您休息时也气短吗？",
+          "yes": "red"
+        },
+        {
+          "id": "chest-pain",
+          "text": "您有胸痛吗？",
+          "yes": "red"
+        },
+        {
+          "id": "blue",
+          "text": "您的嘴唇或脸发蓝吗？",
+          "yes": "red"
+        },
+        {
+          "id": "blood",
+          "text": "您咳血吗？",
+          "yes": "red"
+        },
+        {
+          "id": "sudden",
+          "text": "这是突然发生或很严重吗？",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "pain": {
+      "title": "我有疼痛",
+      "questions": [
+        {
+          "id": "severe",
+          "text": "疼痛很严重吗？",
+          "yes": "red"
+        },
+        {
+          "id": "chest",
+          "text": "疼痛在胸部吗？",
+          "yes": "red"
+        },
+        {
+          "id": "back-legs",
+          "text": "您是否突然无力、麻木，或行走困难？",
+          "yes": "red"
+        },
+        {
+          "id": "not-helped",
+          "text": "您平常的止痛药不能缓解疼痛吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "skin": {
+      "title": "我有皮肤变化或皮疹",
+      "questions": [
+        {
+          "id": "spreading",
+          "text": "皮疹扩散很快吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "blisters",
+          "text": "您有水泡或皮肤脱皮吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "swelling",
+          "text": "您的脸、嘴唇或喉咙肿胀吗？",
+          "yes": "red"
+        },
+        {
+          "id": "fever",
+          "text": "皮疹伴有发热吗？",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "mouth": {
+      "title": "我有口腔问题",
+      "questions": [
+        {
+          "id": "unable-eat",
+          "text": "您是否因口腔疼痛不能吃或喝？",
+          "yes": "orange"
+        },
+        {
+          "id": "ulcers",
+          "text": "您有口腔溃疡吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "bleeding",
+          "text": "有出血吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "fever",
+          "text": "您有发热吗？",
+          "yes": "orange"
+        },
+        {
+          "id": "swallow",
+          "text": "您不能吞咽吗？",
+          "yes": "red"
+        }
+      ],
+      "defaultLevel": "orange"
+    },
+    "treatment-questions": {
+      "title": "我对治疗有疑问",
+      "questions": [
+        {
+          "id": "missed-dose",
+          "text": "我漏服了一次药片。",
+          "yes": "orange"
+        },
+        {
+          "id": "vomited-tablets",
+          "text": "我吃药片后呕吐了。",
+          "yes": "orange"
+        },
+        {
+          "id": "take-today",
+          "text": "我不确定今天是否应该吃药片。",
+          "yes": "orange"
+        },
+        {
+          "id": "side-effects",
+          "text": "我有副作用，不知道该怎么办。",
+          "yes": "orange"
+        },
+        {
+          "id": "appointment",
+          "text": "我需要预约信息。",
+          "yes": "orange"
+        }
+      ],
+      "defaultLevel": "orange"
+    }
+  },
+  "resourceGroups": [
+    {
+      "title": "可信信息",
+      "links": [
+        {
+          "title": "Cancer Institute NSW 患者信息",
+          "description": "关于癌症治疗和副作用的患者信息。",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects"
+        },
+        {
+          "title": "eviQ 患者信息",
+          "description": "关于治疗和副作用的患者信息单。",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-sheets"
+        },
+        {
+          "title": "Cancer Council NSW",
+          "description": "为患者、家人和照护者提供支持和癌症信息。",
+          "url": "https://www.cancercouncil.com.au/"
+        }
+      ]
+    },
+    {
+      "title": "其他语言的可信信息",
+      "links": [
+        {
+          "title": "eviQ 其他语言患者信息",
+          "description": "其他语言的患者信息。",
+          "url": "https://www.eviq.org.au/patients-and-carers/patient-information-in-other-languages"
+        },
+        {
+          "title": "Cancer Institute NSW 多元文化社区",
+          "description": "面向多元文化社区的癌症支持信息。",
+          "url": "https://www.cancer.nsw.gov.au/general-cancer-information/cancer-support/support-for-communities/multicultural-communities"
+        },
+        {
+          "title": "Cancer Council 多语言癌症信息",
+          "description": "其他语言的癌症信息。",
+          "url": "https://www.cancercouncil.com.au/cancer-information/multilingual-cancer-information/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "htmlLang": "en-AU",
+      "dir": "ltr",
+      "nativeName": "English",
+      "shortName": "English"
+    },
+    {
+      "id": "zh-CN",
+      "htmlLang": "zh-Hans",
+      "dir": "ltr",
+      "nativeName": "简体中文",
+      "shortName": "简体中文"
+    },
+    {
+      "id": "el",
+      "htmlLang": "el",
+      "dir": "ltr",
+      "nativeName": "Ελληνικά",
+      "shortName": "Ελληνικά"
+    },
+    {
+      "id": "ar",
+      "htmlLang": "ar",
+      "dir": "rtl",
+      "nativeName": "العربية",
+      "shortName": "العربية"
+    },
+    {
+      "id": "mk",
+      "htmlLang": "mk",
+      "dir": "ltr",
+      "nativeName": "Македонски",
+      "shortName": "Македонски"
+    },
+    {
+      "id": "ko",
+      "htmlLang": "ko",
+      "dir": "ltr",
+      "nativeName": "한국어",
+      "shortName": "한국어"
+    },
+    {
+      "id": "vi",
+      "htmlLang": "vi",
+      "dir": "ltr",
+      "nativeName": "Tiếng Việt",
+      "shortName": "Tiếng Việt"
+    },
+    {
+      "id": "ne",
+      "htmlLang": "ne",
+      "dir": "ltr",
+      "nativeName": "नेपाली",
+      "shortName": "नेपाली"
+    }
+  ],
+  "ui": {
+    "languageTitle": "What should I do?",
+    "languageSubtitle": "For patients and carers receiving cancer treatment\nat St George Hospital Cancer Care Centre.",
+    "languagePrompt": "Feeling unwell or worried about a symptom during cancer treatment?",
+    "languageSupport": "This website can help you decide what to do next.",
+    "languageChoose": "Choose your language",
+    "languageFooter": "General information only.\nNot a substitute for medical advice."
+  },
+  "notices": {
+    "pageEnglishOnly": "This page is currently available in English only.",
+    "sectionEnglishOnly": "This section is currently available in English only."
+  }
+}
