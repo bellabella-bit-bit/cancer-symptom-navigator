@@ -366,15 +366,15 @@ main {
   }
 
   .welcome-title {
-    font-size: clamp(2rem, 10vw, 2.8rem);
-    line-height: 1.12;
+    font-size: clamp(1.72rem, 8vw, 2.2rem);
+    line-height: 1.08;
     white-space: normal;
   }
 
   .welcome-hero-icon {
-    width: 88px;
-    height: 88px;
-    font-size: 2.8rem;
+    width: 78px;
+    height: 78px;
+    font-size: 2.4rem;
   }
 
   .welcome-support-card {
@@ -726,18 +726,19 @@ main {
 @media (max-width: 720px) {
   .welcome-copy {
     width: 100%;
+    gap: 6px;
   }
 
   .welcome-title {
     max-width: 100%;
-    font-size: clamp(2.1rem, 8.8vw, 3rem);
-    line-height: 1.1;
+    font-size: clamp(1.72rem, 7.8vw, 2.35rem);
+    line-height: 1.06;
     white-space: normal;
     overflow-wrap: anywhere;
   }
 
   .welcome-copy .language-subtitle {
-    max-width: 28rem;
+    max-width: 24rem;
   }
 }
 
