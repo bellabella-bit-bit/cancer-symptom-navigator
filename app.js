@@ -10,6 +10,11 @@ const EMERGENCY_DEPARTMENT_TERMS = {
   vi: "Khoa Cấp cứu",
   ne: "आपतकालीन विभागमा"
 };
+const PROTOTYPE_NOTICE_TITLE = "Prototype website – not an official hospital resource";
+const PROTOTYPE_NOTICE_BODY = "This website is under development and has not yet been formally approved for clinical use. It is intended for demonstration and evaluation only. If you are unwell or concerned, contact your treating healthcare team. For emergencies, call 000.";
+const PROTOTYPE_VERSION = "v0.9 Prototype";
+const PROTOTYPE_UPDATED = "Last updated: July 2026";
+const PROTOTYPE_FOOTER = "Prototype version | Under development | Not an official health service website";
 
 const state = {
   registry: null,
@@ -318,11 +323,35 @@ function renderNotice() {
   return state.pageNotice ? `<div class="notice">${state.pageNotice}</div>` : "";
 }
 
+function renderPrototypeBanner() {
+  return `
+    <section class="prototype-banner" aria-label="${PROTOTYPE_NOTICE_TITLE}">
+      <div class="prototype-banner-copy">
+        <p class="prototype-banner-eyebrow">${PROTOTYPE_VERSION}</p>
+        <h2>${PROTOTYPE_NOTICE_TITLE}</h2>
+        <p>${PROTOTYPE_NOTICE_BODY}</p>
+      </div>
+      <p class="prototype-banner-updated">${PROTOTYPE_UPDATED}</p>
+    </section>
+  `;
+}
+
+function renderPrototypeFooter() {
+  return `
+    <div class="prototype-footer" role="note" aria-label="${PROTOTYPE_VERSION}">
+      <p>${PROTOTYPE_FOOTER}</p>
+      <p>${PROTOTYPE_VERSION}</p>
+      <p>${PROTOTYPE_UPDATED}</p>
+    </div>
+  `;
+}
+
 function renderLanguage() {
   return `
     <section class="language-page">
       <div class="language-shell">
-        <div class="globe language-globe" aria-hidden="true">◎</div>
+        ${renderPrototypeBanner()}
+        <div class="language-globe-icon" aria-hidden="true">♡</div>
         <div class="language-copy">
           <h1 class="language-title">${registryUi("languageTitle")}</h1>
           <p class="language-subtitle">${registryUi("languageSubtitle")}</p>
@@ -338,6 +367,7 @@ function renderLanguage() {
         `).join("")}
         </div>
         <p class="language-footer">${registryUi("languageFooter")}</p>
+        ${renderPrototypeFooter()}
       </div>
     </section>
   `;
@@ -348,6 +378,7 @@ function renderWelcome() {
   return `
     <section class="language-page welcome-page">
       <div class="language-shell welcome-shell">
+        ${renderPrototypeBanner()}
         ${renderNotice()}
         <div class="welcome-hero-icon" aria-hidden="true">♡</div>
         <div class="language-copy welcome-copy">
@@ -371,6 +402,7 @@ function renderWelcome() {
           <button class="primary-button welcome-primary" type="button" data-next="concerns">${ui("start")}</button>
         </div>
         <p class="language-footer welcome-footer">${ui("noStore")}\n${ui("footerGeneral")}</p>
+        ${renderPrototypeFooter()}
       </div>
     </section>
   `;
@@ -379,6 +411,7 @@ function renderWelcome() {
 function renderConcerns() {
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <div class="section-header">
         <h2 class="page-title">${ui("worryTitle")}</h2>
@@ -390,6 +423,7 @@ function renderConcerns() {
       <div class="actions">
         <button class="primary-button" type="button" data-next="treatments" data-continue disabled>${ui("continue")}</button>
       </div>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
@@ -397,6 +431,7 @@ function renderConcerns() {
 function renderTreatments() {
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <div class="section-header">
         <h2 class="page-title">${ui("treatmentTitle")}</h2>
@@ -409,6 +444,7 @@ function renderTreatments() {
       <div class="actions">
         <button class="primary-button" type="button" data-next="after-treatments" data-continue disabled>${ui("continue")}</button>
       </div>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
@@ -416,6 +452,7 @@ function renderTreatments() {
 function renderStomach() {
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <div class="section-header">
         <h2 class="page-title">${ui("stomachTitle")}</h2>
@@ -427,6 +464,7 @@ function renderStomach() {
       <div class="actions">
         <button class="primary-button" type="button" data-next="after-stomach" data-continue disabled>${ui("continue")}</button>
       </div>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
@@ -438,17 +476,20 @@ function renderChecklist() {
   if (!section || sectionIsMissing(section)) {
     return `
       <section class="stack">
+        ${renderPrototypeBanner()}
         ${renderNotice()}
         <p class="progress">${ui("sectionProgress")} ${state.sectionIndex + 1} / ${total}</p>
         <div class="notice">${ui("sectionEnglishOnly")}</div>
         <div class="actions">
           <button class="primary-button" type="button" data-next="next-section" data-continue>${ui("continue")}</button>
         </div>
+        ${renderPrototypeFooter()}
       </section>
     `;
   }
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <p class="progress">${ui("sectionProgress")} ${state.sectionIndex + 1} / ${total}</p>
       <div class="quick-card">
@@ -463,6 +504,7 @@ function renderChecklist() {
       <div class="actions">
         <button class="primary-button" type="button" data-next="next-section" data-continue ${currentSectionAnswered() ? "" : "disabled"}>${ui("continue")}</button>
       </div>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
@@ -509,6 +551,7 @@ function renderResult() {
   const advice = isUnsure ? ui("unsureAdvice") : ui(`${level}Advice`);
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <div class="section-header">
         <h2 class="page-title">${ui("finalTitle")}</h2>
@@ -525,6 +568,7 @@ function renderResult() {
       <p class="small">${ui("noStore")}</p>
       <p class="small">${ui("translationNote")}</p>
       <button class="primary-button" type="button" data-next="restart">${ui("startAgain")}</button>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
@@ -563,6 +607,7 @@ function formatCallAdviceEscalation() {
 function renderContact() {
   return `
     <section class="stack">
+      ${renderPrototypeBanner()}
       ${renderNotice()}
       <div class="section-header">
         <h2 class="page-title">${ui("contacts")}</h2>
@@ -572,6 +617,7 @@ function renderContact() {
       ${renderResources()}
       <p class="small">${ui("noStore")}</p>
       <button class="primary-button" type="button" data-next="restart">${ui("startAgain")}</button>
+      ${renderPrototypeFooter()}
     </section>
   `;
 }
